@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,1498 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99beedaf328ecf8409160c1a1b271bbc
+      internalID: 943628055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1496
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f0dedaa79612c4ea0d3e7679b03c51
+      internalID: -317190361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1505
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca36281b91de3640976fe1c56ee40a8
+      internalID: 246834539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1503
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282394d5196e1f7418d0579f8da40bfc
+      internalID: -1646488082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46d6789de49374792327b4c5df186d
+      internalID: 470695499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1434
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698b79b59696bc4c83ce85bcbaa97fc
+      internalID: 1672891484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1436
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c6c20e77ac1641a422621d4d3bc30
+      internalID: -219201989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1438
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e941f573b882814aa46e1106589eb19
+      internalID: 287809430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1370
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8bc0934d88e14f9de1f68b11585e7
+      internalID: -1061588028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1363
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244715013c290a947ab8ed801f201fae
+      internalID: 849671819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1367
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57be51c11a9644abbbc244655faf42
+      internalID: 1598285078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1274
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc81695e6049ef4ea5d24b86a7a894a
+      internalID: -1895512745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1297
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850122f92c6242e40bcccdc88afeed70
+      internalID: 842269042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1302
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3bd849629d59846b86a11a7e3ccfe9
+      internalID: -600880904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1227
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9db4fe4ac4db4db4ca74285e8c68c
+      internalID: 2019714945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1225
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c47f91dda68324cbb3eef2c09bd400
+      internalID: -1113688624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1232
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1e4488e57079c458423ba7b2a01fe4
+      internalID: -1954417471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1138
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e9f3d22aa7bb447a6641dabbdf0f60
+      internalID: 873303791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1138
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61073c0a10c77bb4ea9f144d690ec611
+      internalID: 427587727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1139
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eea2ca44dd67e4aa3271383bc81f61
+      internalID: -107771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1139
+        width: 18
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c006c4f12ce834991cd7fbae11ff2f
+      internalID: 1899296876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1139
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0f0ad28fb5184bb00657511f47555
+      internalID: 773044075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1054
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a687bc2b85a44d901698df51396a6
+      internalID: -1054960679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1054
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc7d9185589b04469375eb82c3cbf49
+      internalID: -615234981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1050
+        width: 27
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c280952adbf0bc4b933a717cfc403ed
+      internalID: 2043381935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1043
+        width: 17
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5bbbb8816c6f0429edce49a023e24c
+      internalID: -1719008045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 980
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34a38d57c43d944bbe2c0f878e26e7b
+      internalID: -522868125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 978
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daf7a8e4482f354f9dba47dac044300
+      internalID: -72631873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 974
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea8bb18a78854843ae3fc1fd921bb7a
+      internalID: -568425952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 905
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba184f2b3aca05742b71dde20c6ca22c
+      internalID: -2061467882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 911
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69af148bf2bc24cae7a3e1ede2adb5
+      internalID: -468674616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 910
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782138aa7d9df6149b41b0b8ad6f7d56
+      internalID: 266300475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29183977bebba4786ba0a0cc029179
+      internalID: -497155144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 842
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32805ee0509f2d248884a8cc2ed9e8f5
+      internalID: -144210104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 834
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd45fd47806b1841a3d1533cbbe2ea6
+      internalID: -1496532886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 759
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35880767f3ae34eae343c2a8940477
+      internalID: 1133753260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 759
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5e29b14428c04c8e72ed54565d0b6
+      internalID: -523827008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 751
+        width: 21
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ed8ca841f2274ab9cb306bd33fa5f
+      internalID: 220215988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 764
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe8be6e495387b48b326d840d8949d5
+      internalID: -933304264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 691
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3fd296dbaa97c4a9d576732fb847e0
+      internalID: 969314852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 685
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f63a78bf5e8df4dac2df053648c232
+      internalID: -401126938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 684
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3cb3710cec4449801d40f26905c43
+      internalID: -2079520730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 690
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dabedc3cd48e074bbf04f7ed7004fb9
+      internalID: 1067237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 611
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c8136e5c8bef4188879b3a2fa424d
+      internalID: -227468134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 604
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5696067d47b8409dd40e12c132798
+      internalID: -1089978679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70d4ee686674547bf10f9bdf7d72ed
+      internalID: 227120330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 523
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db428d5242e8349973439b3166135b
+      internalID: -768479277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 448
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f93362eb6f5504c9f043c1feeafe05
+      internalID: 1615199687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 505
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fa85dc78dca2e4797f3b9f70fb40e3
+      internalID: 1599904425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0eab991daffea40bf5174a82914a2c
+      internalID: -597121448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f991085d52c1164eae6114b3a3e0687
+      internalID: -1971304291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 396
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7880c25cd0a33ef41883e30c8dffe98e
+      internalID: 1258005003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 386
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb6372653e3cd4d9ce2ae9c77bcb88
+      internalID: 1135635818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8402a530f156f34d9a3f5beb58aa591
+      internalID: 2007661996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 330
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f417ac259129b542beae41b6393e8d4
+      internalID: -1994843263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 271
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a274426dc87aef4786294549d55a364
+      internalID: -414952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 270
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff17e30af3bed647bad8adc4f7447e9
+      internalID: -1974791608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 277
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576a4d99a6b02c479830f44398084ad
+      internalID: 309655131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a09a6c9c66caf4e99dffe6c593f2e3
+      internalID: 1016659630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 225
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad621c6bf6a7f43b9f310652ed21e2
+      internalID: -2127948047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 194
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f37e09c83d9a4e8f5cb6968d4814a
+      internalID: 206107817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 203
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c131849644229446a3debac3d24b3a7
+      internalID: 1364251035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed48705d8b1f61a418eb4213d2feedde
+      internalID: 127509654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 140
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe722cda6a6a145812d318865de643
+      internalID: 26416240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 128
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0a27cff0a2ae74da65e9069fe8549f
+      internalID: 103848433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39971fc263fe343499d2c0d90e686a04
+      internalID: -1192980188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea98f7105c41345b15ad65687a3629
+      internalID: 826453720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 60
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de435054ae71c54d82d93bea39d5f2a
+      internalID: -1842926584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b75e41c8a74f409180c72492f8642
+      internalID: -409920100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf65a37cb9ffd43abb00300e10b2fd
+      internalID: 1482127310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff412c010d54648943388436bc2869
+      internalID: -1389732931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +1605,78 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_49: -597121448
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_51: 1258005003
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_34: -1496532886
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_15: -1113688624
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_67: -1842926584
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_48: 1599904425
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_7: 287809430
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_62: 127509654
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_4: 470695499
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_6: -219201989
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_63: 26416240
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_8: -1061588028
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_21: 773044075
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_24: 2043381935
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_37: 220215988
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_1: -317190361
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_3: -1646488082
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_44: -1089978679
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_31: 266300475
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_36: -523827008
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_66: 826453720
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_25: -1719008045
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_45: 227120330
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_61: 1364251035
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_41: -2079520730
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_16: -1954417471
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_17: 873303791
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_26: -522868125
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_42: 1067237069
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_59: -2127948047
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_12: 842269042
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_64: 103848433
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_69: 1482127310
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_46: -768479277
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_50: -1971304291
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_65: -1192980188
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_10: 1598285078
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_70: -1389732931
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_57: 309655131
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_54: -1994843263
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_35: 1133753260
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_9: 849671819
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_20: 1899296876
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_43: -227468134
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_53: 2007661996
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_22: -1054960679
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_0: 943628055
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_5: 1672891484
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_13: -600880904
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_58: 1016659630
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_60: 206107817
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_28: -568425952
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_32: -497155144
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_39: 969314852
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_2: 246834539
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_23: -615234981
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_11: -1895512745
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_47: 1615199687
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_19: -107771
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_14: 2019714945
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_29: -2061467882
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_30: -468674616
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_33: -144210104
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_27: -72631873
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_52: 1135635818
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_40: -401126938
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_55: -414952
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_38: -933304264
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_18: 427587727
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_56: -1974791608
+      ronald_mcdonald_s_sheet_part_1_by_mercuryx_d2oroa8-removebg-preview_68: -409920100
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
