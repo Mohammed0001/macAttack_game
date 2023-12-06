@@ -5,6 +5,7 @@ using UnityEngine;
 public class LevelManager : MonoBehaviour
 {
     public GameObject CurrentCheckpoint;
+    public Transform enemy;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,7 +17,9 @@ public class LevelManager : MonoBehaviour
     {
         
     }
-
+     public void RespawnEnemy(){
+        Instantiate(enemy, transform.position , transform.rotation );
+     }
     public void RespawnPlayer(){
         FindObjectOfType<controller>().transform.position = CurrentCheckpoint.transform.position;
     }

@@ -70,4 +70,8 @@ public class playerStat : MonoBehaviour
         this.isImmune = true;
         this.immunityTime = 0f;
     }
+    public void collect(int coinValue)
+    {
+        coinsCollected += coinValue;
+    }
 }

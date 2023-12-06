@@ -15,12 +15,20 @@ public class controller : MonoBehaviour
     public KeyCode L;
     public KeyCode R;
 
+    public KeyCode Return;
+
+
     public Transform groundCheck;
+    public Transform firePoint;
+
+    public GameObject bullet;
+
     public float groundCheckRadius;
 
     public LayerMask whatIsGround;
     private bool grounded;
     private Animator anime;
+
 
     // Start is called before the first frame update
     void Start()
@@ -33,7 +41,11 @@ public class controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKey(Spacebar) && grounded){
+        if (Input.GetKey(Return))
+        {
+            Shoot();
+        }
+        if (Input.GetKey(Spacebar) && grounded){
             jump();
         }
         if(Input.GetKey(L)){
@@ -66,4 +78,9 @@ public class controller : MonoBehaviour
         AudioManager.instance.RandomizeSFX(jump1,jump2);
     }
 
+    public void Shoot(){
+        Instantiate(bullet, firePoint.position, firePoint.rotation);
+    }
+
+    
 }
