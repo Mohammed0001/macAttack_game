@@ -19,8 +19,9 @@ public class Brick : MonoBehaviour
     }
 
     void OnCollisionEnter2D(Collision2D other){
-        //other.tag == "Player" &&
-        if ( other.GetContact(0).point.y < transform.position.y){
+        
+        if ( /*other.tag == "Player" && */other.GetContact(0).point.y < transform.position.y){
+
             sr.sprite = explodedBlock;
             Object.Destroy(gameObject,.2f);
         }
