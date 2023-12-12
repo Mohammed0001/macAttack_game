@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: 093cfefe40a3d794a8e7ff44c47aeaf8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RonaldSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 890
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506699a84800ddd4fb92ae19cde40f28
+      internalID: 1886624122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 887
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7b15c09355414e9d2593549d3a2e5
+      internalID: 2104182081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 882
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a32ed2bf71604f895e5cf33851d1f
+      internalID: -432857503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 883
+        width: 56
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27405b3f463a32f47bce4a84f8fa5d5f
+      internalID: 80618978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 867
+        width: 64
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d39b3115c5444299616705ba41360
+      internalID: -265405962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 870
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ea4aacc9e77643ab312fadc0399f7
+      internalID: 253527344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 875
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e121bcdd88c194298e13078e49c5bc
+      internalID: 1670100062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 874
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea42e6d947ea6941b740b177e03a64b
+      internalID: 1528173144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 874
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba14d2d4eb934f249b7754f2cc6404f1
+      internalID: 494582232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 874
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857acf7a4499d2e4caaafa7c9f9c3fa2
+      internalID: -943558439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 874
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924cf181d2c0a1b4daade47665312764
+      internalID: -1059590489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 871
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6809875259fec408d6fbca48e2790b
+      internalID: -1047949835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 954
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b9e2bcff1ada940aaffe80d74690ab
+      internalID: 36392167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 874
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b79f32336f219e49a16044cfe9979d1
+      internalID: 555593379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 742
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95320a8ae39591c4498870756c6d2a85
+      internalID: -1501827671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 742
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc407557a268ef246a11a2b16209970d
+      internalID: 2009578033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 742
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ea5aa721fec04b9ba6d5f8532bcb2
+      internalID: 156235319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 742
+        width: 93
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d592c54533579864e9eae8193d646804
+      internalID: -1785729345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 747
+        width: 51
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca775acb1211fe4d8cd9bc6670103e3
+      internalID: -235404705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 744
+        width: 149
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e930a0936df748ad29ce793eb16ff
+      internalID: 1017557824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 770
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea76e79b7ec99a54280434a0122d6fd7
+      internalID: -229042734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 766
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1804e80b31cf61438df4c0c5a473849
+      internalID: 734939918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 758
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3702aa700d6042869c3242af2670d
+      internalID: 1756472567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 762
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595b2d31a14849469905f56c429b125
+      internalID: 1918306568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 634
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b160129b732c4a9098ecd2089daf8
+      internalID: 186083898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 634
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1d7060289e78b42b0ccf88673c95ab
+      internalID: 1185062996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 631
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106569057b3bd348a99b2424f5cb316
+      internalID: -1552792606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 625
+        width: 267
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9286479ec3ba89842ad5d4c85eb08e89
+      internalID: 677389614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 624
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb82282c20289984e89b1fd183f3a33e
+      internalID: 1895955040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 624
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a89ba91272bad4aa1916f7ebaeb7f1
+      internalID: 598076174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 624
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df3d0c6aba59c24b8fbd31740cb2e19
+      internalID: -208905967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 502
+        width: 89
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3814c0262f38c8449a69735818ad93e5
+      internalID: 1024026905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 623
+        width: 77
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a61494d796cd45bd0bab96f230510
+      internalID: 1117906541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 503
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7fa17b6fbc29d4d8f6f73c70686abf
+      internalID: 778900597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 507
+        width: 78
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea47f37e4f5a048bbd69bb444eb153
+      internalID: 53655328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 502
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd76ebc69ed33b742b186db179ad8ef3
+      internalID: 1843647616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 502
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb1123ce00b0b449fb56608b3dd340
+      internalID: 1712751009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 502
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8afdb06b171143ab4c151f3d88605
+      internalID: 1940040654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 502
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799ec8f568fc6841969f7d7791c4b31
+      internalID: -1258746399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 502
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb829735f12c124cbd9fa857673f826
+      internalID: 293254294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 502
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe37be40d65aaa4e9eac64f8ee8566c
+      internalID: 1164518829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 502
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3127f13cc3867b409d9cfd51cc96a0b
+      internalID: 776525126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 502
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3701cf67819abe479ac8372d27a5033
+      internalID: 1307555715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 450
+        width: 50
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3057e9c7c9c745be44aebc2a83cb7
+      internalID: -1659314325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 494
+        width: 56
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0b7f7ae4709034a8a437f21a6d0f1e
+      internalID: 1674755129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RonaldSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 498
+        width: 51
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feece9f6c4c14464d9972fdc69036c34
+      internalID: 822932400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RonaldSpritesheet_25: 1185062996
+      RonaldSpritesheet_31: 1024026905
+      RonaldSpritesheet_43: -1659314325
+      RonaldSpritesheet_40: 1164518829
+      RonaldSpritesheet_41: 776525126
+      RonaldSpritesheet_30: -208905967
+      RonaldSpritesheet_34: 53655328
+      RonaldSpritesheet_39: 293254294
+      RonaldSpritesheet_36: 1712751009
+      RonaldSpritesheet_19: 1017557824
+      RonaldSpritesheet_18: -235404705
+      RonaldSpritesheet_16: 156235319
+      RonaldSpritesheet_33: 778900597
+      RonaldSpritesheet_13: 555593379
+      RonaldSpritesheet_6: 1670100062
+      RonaldSpritesheet_11: -1047949835
+      RonaldSpritesheet_12: 36392167
+      RonaldSpritesheet_7: 1528173144
+      RonaldSpritesheet_21: 734939918
+      RonaldSpritesheet_45: 822932400
+      RonaldSpritesheet_8: 494582232
+      RonaldSpritesheet_28: 1895955040
+      RonaldSpritesheet_0: 1886624122
+      RonaldSpritesheet_10: -1059590489
+      RonaldSpritesheet_1: 2104182081
+      RonaldSpritesheet_29: 598076174
+      RonaldSpritesheet_22: 1756472567
+      RonaldSpritesheet_5: 253527344
+      RonaldSpritesheet_35: 1843647616
+      RonaldSpritesheet_2: -432857503
+      RonaldSpritesheet_20: -229042734
+      RonaldSpritesheet_15: 2009578033
+      RonaldSpritesheet_17: -1785729345
+      RonaldSpritesheet_9: -943558439
+      RonaldSpritesheet_38: -1258746399
+      RonaldSpritesheet_14: -1501827671
+      RonaldSpritesheet_3: 80618978
+      RonaldSpritesheet_32: 1117906541
+      RonaldSpritesheet_37: 1940040654
+      RonaldSpritesheet_42: 1307555715
+      RonaldSpritesheet_27: 677389614
+      RonaldSpritesheet_44: 1674755129
+      RonaldSpritesheet_26: -1552792606
+      RonaldSpritesheet_24: 186083898
+      RonaldSpritesheet_4: -265405962
+      RonaldSpritesheet_23: 1918306568
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
