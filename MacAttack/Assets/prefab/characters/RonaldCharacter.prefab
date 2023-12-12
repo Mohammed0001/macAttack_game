@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  jumpHeight: 50
+  jumpHeight: 10
   isFacingRight: 1
   jump1: {fileID: 0}
   jump2: {fileID: 0}
