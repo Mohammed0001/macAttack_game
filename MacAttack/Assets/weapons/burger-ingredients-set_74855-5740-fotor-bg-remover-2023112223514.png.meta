@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 02b204c455efe7e4683512c97fcfeeed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 197
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e6c625812a5fb4a8688642f5556b34
+      internalID: -1673805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 231
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef01b85081ae89439351deea4409387
+      internalID: -454719841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3abce2dab6124d8fe01533c278c75
+      internalID: -282377378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 211
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae227a949202014a9f3efad1c02a304
+      internalID: -943372310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 222
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc10c24bd5d854aa058cc3db0b6d55
+      internalID: -1627865870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 106
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce613ff1c3a80a48a213580c076fcdc
+      internalID: -550352019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 175
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a177b3e1309af548aa2e288c4662145
+      internalID: 2095972029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c583061744884c94d237a206d7d57
+      internalID: -66264429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 167
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f32bf41b93b9b041a681950ceda22b6
+      internalID: 1984537452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 172
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c72709d1e2d594182e9d6ab56594eb
+      internalID: -2010324012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 118
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa3edd650735b4fbbec8e570a5277a
+      internalID: -1620202048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 122
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc5db277fdfd1468958bddbee353fc
+      internalID: -1765838355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 136
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce62f3ea8d2f8644bb0c2d19195468a
+      internalID: -622392197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_13
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 125
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb4c1a27c9e544fb66fd52f107263b
+      internalID: 1610286520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d997a6097fd0a04b962b2d4cea5f879
+      internalID: -1731624806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1baacafc1cb4044b06ca5daee6dad1
+      internalID: -1193082843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 93
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705548080d375a43a2c3eebb62a6b0e
+      internalID: 738278716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 89
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf23404313e5e944bb200cf774c4638
+      internalID: -2096116238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 17
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e479633ba36d54f90c4f0a9881a2ce
+      internalID: -1109986258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 63
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2ced361f0981a479c006e885b92413
+      internalID: 500173151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 63
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5dc5025bdd5454eb97b6e01a753b0f
+      internalID: -489158254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 80
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f50d4a86c447e4a9084c88ce85f136
+      internalID: -507079221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 21
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9599563fa813bd48a21d93d178042ba
+      internalID: 348033737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 18
+        width: 75
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb43a6f89782745b82bec45a182813
+      internalID: 1410445000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_24
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 39
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9138858a4af30459fb5596038e25e7
+      internalID: 192058852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c7ec90bff64e040b96aa5aefe75571
+      internalID: 603348300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_23: 1410445000
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_21: -507079221
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_4: -1627865870
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_25: 603348300
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_11: -1765838355
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_19: 500173151
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_15: -1193082843
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_12: -622392197
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_22: 348033737
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_18: -1109986258
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_10: -1620202048
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_20: -489158254
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_13: 1610286520
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_14: -1731624806
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_16: 738278716
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_17: -2096116238
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_6: 2095972029
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_2: -282377378
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_24: 192058852
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_1: -454719841
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_9: -2010324012
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_8: 1984537452
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_0: -1673805
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_3: -943372310
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_7: -66264429
+      burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_5: -550352019
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5b6ae580f8d6589479d85d887298bf61
+guid: fb931dd00777a58488510aaea2904396
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_0
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_0
       rect:
         serializedVersion: 2
-        x: 49
-        y: 91
-        width: 79
-        height: 29
+        x: 9
+        y: 54
+        width: 131
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bcd4a5571c45994680ae77b3afff8de
-      internalID: -1848609811
+      spriteID: 6ddbae6ace616a94a8026e336980b0b1
+      internalID: 1338590102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_1
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_1
       rect:
         serializedVersion: 2
-        x: 129
-        y: 91
-        width: 78
-        height: 38
+        x: 142
+        y: 56
+        width: 33
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3697d3a22665e54da35047287134405
-      internalID: 1628572641
+      spriteID: ec085b1881889a949a7081376a5cd6a9
+      internalID: 867462677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_2
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_2
       rect:
         serializedVersion: 2
-        x: 210
-        y: 91
-        width: 79
-        height: 43
+        x: 153
+        y: 53
+        width: 143
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06053e8085f1cb949afd27489ace59f2
-      internalID: 1091973140
+      spriteID: 514232a10f795cf4badfea43c76aa9b8
+      internalID: 1077753202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_3
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_3
       rect:
         serializedVersion: 2
-        x: 292
-        y: 91
-        width: 80
-        height: 43
+        x: 257
+        y: 51
+        width: 20
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01acdbead833fe84c85c56eba95d3311
-      internalID: 1296952619
+      spriteID: 80854ec275ec28142a92a091847a8d6e
+      internalID: 700332821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_4
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_4
       rect:
         serializedVersion: 2
-        x: 374
-        y: 91
-        width: 80
-        height: 48
+        x: 305
+        y: 50
+        width: 41
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a53c779d15c9ab54cb432632742b209e
-      internalID: 1877422552
+      spriteID: 618af2a35d6ff834bb25221d325c233f
+      internalID: 909775559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_5
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_5
       rect:
         serializedVersion: 2
-        x: 456
-        y: 91
-        width: 81
-        height: 54
+        x: 307
+        y: 51
+        width: 179
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63a0d4b954138804ba85353ec0d03c35
-      internalID: 166117256
+      spriteID: 5d2b588159077484cab215e81af2b3b6
+      internalID: -1058881575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_6
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_6
       rect:
         serializedVersion: 2
-        x: 534
-        y: 12
-        width: 88
-        height: 96
+        x: 415
+        y: 49
+        width: 7
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21b6e3bdb76348e4eb4d98cd65fca4b3
-      internalID: -314982703
+      spriteID: 4aa3ec2eec05d0447b7562d5d936aa10
+      internalID: 1856291388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_7
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_7
       rect:
         serializedVersion: 2
-        x: 3
-        y: 12
-        width: 177
-        height: 54
+        x: 8
+        y: 18
+        width: 15
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22eb9b061e81a0848a212f1f2efc5966
-      internalID: -372554967
+      spriteID: cb392bf19641ede489983d1fe1d1c69d
+      internalID: 471299067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_8
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_8
       rect:
         serializedVersion: 2
-        x: 180
-        y: 13
-        width: 89
-        height: 53
+        x: 16
+        y: 15
+        width: 201
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 309eac55c91d15640a83f626abb83b5c
-      internalID: -351169687
+      spriteID: 1107e74e90ae3974a994da628ffb3367
+      internalID: -712378178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_9
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_9
       rect:
         serializedVersion: 2
-        x: 269
-        y: 13
-        width: 88
-        height: 55
+        x: 222
+        y: 6
+        width: 136
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5037cd953c8827c439d8fd1bff3d6edc
-      internalID: 1665565578
+      spriteID: 3cad01f8010c58a4f89b23cd6199aeab
+      internalID: 1917422114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_10
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_10
       rect:
         serializedVersion: 2
-        x: 358
-        y: 13
-        width: 88
-        height: 58
+        x: 378
+        y: 8
+        width: 109
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad7d91ef5b3333d41bb2a4b2ef40c2c5
-      internalID: -2092634820
+      spriteID: e2be130ff709190479be4ae46dd7afd7
+      internalID: -649827124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_11
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_11
       rect:
         serializedVersion: 2
-        x: 446
-        y: 13
-        width: 88
-        height: 58
+        x: 27
+        y: 14
+        width: 42
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,8 +350,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b358d68038540e843b78fac085f5abb6
-      internalID: 1390002091
+      spriteID: e7839ac5b473aa54ea15e647fb9be89c
+      internalID: -1047980540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 6
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a42fe326a7574690a349ad987c503
+      internalID: -1183334136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 6
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d9096c84f0d543baacf51ddfb92f5
+      internalID: 224134771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eae40ccb0ad9342bfd083f41f3d173
+      internalID: 1319803659
       vertices: []
       indices: 
       edges: []
@@ -367,18 +430,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_8: -351169687
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_3: 1296952619
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_9: 1665565578
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_1: 1628572641
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_6: -314982703
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_7: -372554967
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_11: 1390002091
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_5: 166117256
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_2: 1091973140
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_4: 1877422552
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_0: -1848609811
-      WhatsApp_Image_2023-11-24_at_13.44.17_d0f95672-removebg-preview_10: -2092634820
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_7: 471299067
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_0: 1338590102
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_13: 224134771
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_3: 700332821
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_11: -1047980540
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_5: -1058881575
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_9: 1917422114
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_4: 909775559
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_8: -712378178
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_12: -1183334136
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_2: 1077753202
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_1: 867462677
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_6: 1856291388
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_14: 1319803659
+      hot-liquid-lava-puddle-fx-with-orange-bubble-2d_107791-20219-fotor-bg-remover-2023112303523_10: -649827124
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
