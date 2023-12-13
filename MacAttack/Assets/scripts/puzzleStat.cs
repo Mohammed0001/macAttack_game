@@ -18,7 +18,11 @@ public class puzzleStat : MonoBehaviour
             victoryScreen.SetActive(true);
         }
         timer = timer - Time.deltaTime;
-        timerUI.text = "" + (Mathf.Round(timer)/100);
+        if(timer <= 10f){
+            timerUI.text = "<color=\"red\">" + (Mathf.Round(timer)/100);
+        }else{
+            timerUI.text = "" + (Mathf.Round(timer)/100);
+        }
         if(timer <= 0){
             gameOverScreen.SetActive(true);
             Time.timeScale=0;
