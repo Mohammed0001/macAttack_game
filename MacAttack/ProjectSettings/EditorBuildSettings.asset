@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/L1S2_MazeScene.unity
     guid: 907eb9c1988a49b4598d9db33eff9cc5
+  - enabled: 1
+    path: Assets/Scenes/L2S1_Collect_Ing.unity
+    guid: 7de4b1eef360eba48af9f635d205c7dc
+  - enabled: 1
+    path: Assets/Scenes/L2S2_Collect_wep.unity
+    guid: c3502b1cdaca0034d92bc4c00534bce7
+  - enabled: 1
+    path: Assets/Scenes/L3S1_BurgerFight.unity
+    guid: 7805857a14cf0cf41bb3f26b52d3c36b
+  - enabled: 1
+    path: Assets/Scenes/L3S2_FinalFight.unity
+    guid: d3665405beb8ef648907cd684785c1a5
   m_configObjects: {}

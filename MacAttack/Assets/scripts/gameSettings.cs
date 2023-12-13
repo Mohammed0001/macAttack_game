@@ -29,12 +29,17 @@ public class gameSettings : MonoBehaviour
         {
             Resume();
         }
+        
     }
     public void nextLevel(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
     public void startGame(){
         SceneManager.LoadScene(1);
+    }
+    public void reStartGame(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        Time.timeScale=1;
     }
     public void quitGame(){
         Application.Quit();

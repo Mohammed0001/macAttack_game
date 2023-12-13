@@ -3,20 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-public class puzzleStat : MonoBehaviour
+public class mazeStat : MonoBehaviour
 {
-    private int points = 0;
     public TextMeshProUGUI timerUI;
-    public TextMeshProUGUI puzzleUI;
     private float timer = 60f;
     public GameObject victoryScreen;
     public GameObject gameOverScreen;
     // Update is called once per frame
     void Update()
     {
-        if(points == 9){
-            victoryScreen.SetActive(true);
-        }
         timer = timer - Time.deltaTime;
         timerUI.text = "" + (Mathf.Round(timer)/100);
         if(timer <= 0){
@@ -24,9 +19,8 @@ public class puzzleStat : MonoBehaviour
             Time.timeScale=0;
         }
     }
-    public void addPoint(){
-        points += 1;
-        puzzleUI.text = "" + points + "/9";
-
+    public void vicroty(){
+        victoryScreen.SetActive(true);
+        Time.timeScale=0;
     }
 }
