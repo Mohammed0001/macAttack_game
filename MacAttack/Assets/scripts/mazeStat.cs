@@ -13,11 +13,18 @@ public class mazeStat : MonoBehaviour
     void Update()
     {
         timer = timer - Time.deltaTime;
-        timerUI.text = "" + (Mathf.Round(timer)/100);
+        if(timer <= 10f){
+            timerUI.text = "<color=\"red\">" + (Mathf.Round(timer)/100);
+        }else{
+            timerUI.text = "" + (Mathf.Round(timer)/100);
+        }
         if(timer <= 0){
             gameOverScreen.SetActive(true);
             Time.timeScale=0;
         }
+        // if(timer <= 50f){
+        //     timerUI.color = new Color(100,10,10,1) ;
+        // }
     }
     public void vicroty(){
         victoryScreen.SetActive(true);
