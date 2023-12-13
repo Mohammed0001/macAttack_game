@@ -13,7 +13,7 @@ public class playerStat : MonoBehaviour
     private float flickerDuration = 0.1f;
     
     private SpriteRenderer spriteRenderer;
-
+    public GameObject gameOverScreen;
     public bool isImmune = false;
     private float immunityTime = 0f;
     public float immunityDuration = 1.5f;
@@ -50,7 +50,7 @@ public class playerStat : MonoBehaviour
     public void TakeDamage(int damage){
         if(this.isImmune == false){
             this.health = health - damage;
-            healthBar.fillAmount = this.health / 10f;
+           // healthBar.fillAmount = this.health / 10f;
             if(this.health < 0)
                 this.health = 0;
             if(this.lives > 0 && this.health == 0){
@@ -59,6 +59,7 @@ public class playerStat : MonoBehaviour
                 this.lives--;
             }else if(this.lives == 0 && this.health == 0){
                 Debug.Log("GameOver!");
+                gameOverScreen.SetActive(true);
                 Destroy(this.gameObject);
             }
             Debug.Log("Player Health: " + this.health.ToString());
