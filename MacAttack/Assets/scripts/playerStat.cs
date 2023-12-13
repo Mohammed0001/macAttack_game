@@ -28,7 +28,7 @@ public class playerStat : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        scoreUI.text = "" + coinsCollected;
+       // scoreUI.text = "" + coinsCollected;
         if(this.isImmune == true){
             SpriteFlicker();
             immunityTime = immunityTime + Time.deltaTime;

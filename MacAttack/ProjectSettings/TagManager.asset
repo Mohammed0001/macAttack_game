@@ -47,3 +47,9 @@ TagManager:
   - name: FG
     uniqueID: 1061551919
     locked: 0
+  - name: PuzzlePlaces
+    uniqueID: 1025274413
+    locked: 0
+  - name: Puzzle
+    uniqueID: 3096131633
+    locked: 0

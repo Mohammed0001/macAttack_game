@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/L1S1_PuzzleScene.unity
     guid: 260a031f8c0e01f4889a3c5e583fc613
+  - enabled: 1
+    path: Assets/Scenes/L1S2_MazeScene.unity
+    guid: 907eb9c1988a49b4598d9db33eff9cc5
   m_configObjects: {}

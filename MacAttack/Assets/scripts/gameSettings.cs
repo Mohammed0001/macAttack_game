@@ -14,8 +14,8 @@ public class gameSettings : MonoBehaviour
     {
         paused=false;
         PauseScreen.SetActive(false);
-        gameOverScreen.SetActive(false);
-        victoryScreen.SetActive(false);
+       // gameOverScreen.SetActive(false);
+        //victoryScreen.SetActive(false);
     }
 
     // Update is called once per frame
@@ -30,13 +30,16 @@ public class gameSettings : MonoBehaviour
             Resume();
         }
     }
+    public void nextLevel(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+    }
     public void startGame(){
         SceneManager.LoadScene(1);
     }
     public void quitGame(){
         Application.Quit();
     }
-     void Pause(){
+    void Pause(){
         PauseScreen.SetActive(true);
         paused=true;
         Time.timeScale=0;
