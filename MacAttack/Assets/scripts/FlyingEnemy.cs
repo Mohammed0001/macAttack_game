@@ -22,12 +22,15 @@ public class FlyingEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    void FixedUpdate(){
+    void FixedUpdate()
+    {
         temp_position.x += HorizontalSpeed;
-        temp_position.y += Mathf.Sin(Time.realtimeSinceStartup*VerticalSpeed) * amplitude;
+        temp_position.y += Mathf.Sin(Time.realtimeSinceStartup * VerticalSpeed) * amplitude;
         transform.position = temp_position;
     }
 }
+
+

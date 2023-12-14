@@ -68,7 +68,9 @@ public class controller : MonoBehaviour
     }
     void FixedUpdate(){
         grounded = Physics2D.OverlapCircle(groundCheck.position , groundCheckRadius , whatIsGround);
-    }
+        
+    
+}
 
     void flip(){
         transform.localScale = new Vector3(-(transform.localScale.x) ,transform.localScale.y , transform.localScale.z);

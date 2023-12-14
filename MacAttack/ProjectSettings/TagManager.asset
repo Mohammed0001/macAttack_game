@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ketchup
   layers:
   - Default
   - TransparentFX
@@ -52,4 +53,7 @@ TagManager:
     locked: 0
   - name: Puzzle
     uniqueID: 3096131633
+    locked: 0
+  - name: ' '
+    uniqueID: 3931557987
     locked: 0
