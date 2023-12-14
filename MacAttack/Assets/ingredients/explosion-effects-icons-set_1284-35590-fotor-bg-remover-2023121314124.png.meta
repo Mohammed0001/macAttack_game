@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 44d1b963a8bb7d84386d5a73f4e49e58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 350
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bfcadcafa5ff4dba01f1dc0991e02
+      internalID: 1544882744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 354
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522bdba29fbd0ae45863c444422627b2
+      internalID: 1897795005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 350
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd8d14cd2c732f4aad865b90e80cdd5
+      internalID: 971647354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 115
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfa05f94146d04ab0b2af200c74f10
+      internalID: -2009713788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 293
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f80fb2b2253ccc42bf973662197a0b2
+      internalID: 2095828690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 191
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ece6ec78917d4a801b5ed5677b744
+      internalID: 1848485725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 187
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61f0dd429df6e4fabb070450450281
+      internalID: -72993934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 113
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682b73a011a0b74583ba795d7730526
+      internalID: 156625481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 151
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1e423e46233e43823cac1d990774e
+      internalID: -1034099894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 153
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb97fab5f2068e4aba797d8fa0a38ef
+      internalID: -1668980784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 138
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643eb5063f4f72543aa14bff0053142d
+      internalID: -156156366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c85cff06c9182438f4a6bbda85569d
+      internalID: -85904527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 122
+        width: 87
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b308992dedb6454e86564b5e77364e1
+      internalID: 1593322948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 94
+        width: 107
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db52797cb453ef4a91f0945ebfc0df4
+      internalID: -1589067985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 61
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df117ce79d4851947b36d5027e06a870
+      internalID: 245958060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 60
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014143efcaf27254e9c54ca8c06a1b83
+      internalID: -1936730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 46
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c42ec897ae6f2478322d0fd8e18712
+      internalID: 934839840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1010bc81b6bb54d8cdab4789b4630b
+      internalID: 886361709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 33
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a070b27e96fd944e8f388b1926bd128
+      internalID: -1193688287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_13: -1589067985
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_7: 156625481
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_10: -156156366
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_8: -1034099894
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_18: -1193688287
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_6: -72993934
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_17: 886361709
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_4: 2095828690
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_11: -85904527
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_14: 245958060
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_0: 1544882744
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_15: -1936730
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_2: 971647354
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_12: 1593322948
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_5: 1848485725
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_16: 934839840
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_1: 1897795005
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_3: -2009713788
+      explosion-effects-icons-set_1284-35590-fotor-bg-remover-2023121314124_9: -1668980784
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,95 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 17969355-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 500
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f157535866b3846b489f7af3e3ef80
+      internalID: 1634349445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17969355-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 500
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 239, y: -47}
+        - {x: -250, y: -47}
+        - {x: -197, y: 47}
+        - {x: 185, y: 47}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33183c9fa7a24843a0812fe6b6afd32
+      internalID: -230329182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17969355-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 500
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5d0b5b5b065f4db0a010e0c7a0a79
+      internalID: 794854752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17969355-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 500
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99e97687d450948a21eeead5a7e9b2
+      internalID: -1911959962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +202,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      17969355-removebg-preview_1: -230329182
+      17969355-removebg-preview_0: 1634349445
+      17969355-removebg-preview_2: 794854752
+      17969355-removebg-preview_3: -1911959962
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

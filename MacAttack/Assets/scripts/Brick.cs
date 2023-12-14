@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Brick : MonoBehaviour
 {
-    private SpriteRenderer sr;
+    protected SpriteRenderer sr;
 
     public Sprite explodedBlock;
     void Start()
@@ -15,16 +15,23 @@ public class Brick : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    void OnCollisionEnter2D(Collision2D other){
-        
-        if ( /*other.tag == "Player" && */other.GetContact(0).point.y < transform.position.y){
+    void OnCollisionEnter2D(Collision2D other)
+    {
+
+        if ( /*other.tag == "Player" && */other.GetContact(0).point.y < transform.position.y)
+        {
 
             sr.sprite = explodedBlock;
-            Object.Destroy(gameObject,.2f);
+            Object.Destroy(gameObject, .2f);
         }
-        
+
     }
 }
+
+
+
+
+
