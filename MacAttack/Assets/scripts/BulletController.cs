@@ -23,9 +23,12 @@ public class BulletController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other){
         if (other.tag == "Enemy")
         {
+            FindObjectOfType<playerStat>().addKill();
             Destroy(other.gameObject);
-            
+            Destroy(this.gameObject);
         }
-        Destroy(this.gameObject);
+        if(other.tag == "Wall"){
+            Destroy(this.gameObject);
+        }
     }
 }

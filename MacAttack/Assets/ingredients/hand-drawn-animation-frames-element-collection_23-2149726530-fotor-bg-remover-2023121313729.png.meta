@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: ff97e1c2b7f8a4f469e691f55e404293
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 190
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0f8773929a0f408719a2ab722b3b0
+      internalID: -2112631067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 187
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090ce291338362418d8f49b0d121c62
+      internalID: -477013298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 182
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81355113f007640a22fe63123bc844
+      internalID: 960714018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 183
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac5f6aaed13ba40aaff528693f690f
+      internalID: -818864257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 60
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d253c47f78c574589d2e064e4c6370
+      internalID: 1747036895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 61
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567f9896e0454543853aa35293af210
+      internalID: 1589819132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 100
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc7b9bc94a562449d42ba766c97722
+      internalID: 1894437050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cbfa5dd698c8d44a26f6e9aabaa739
+      internalID: -140469610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 126
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e201b4fcbd2e3b74d825859180ff7c71
+      internalID: -2095873060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 111
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c02c3317fa16a046b370e771759267b
+      internalID: 124928386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 112
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec1f61703803f4ab037d0c000ed468
+      internalID: -380445038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 95
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f39d85c8a86e340890aa106cf6c3d2
+      internalID: -1303343360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb896e63052084fb2e6067ca9c8b0e
+      internalID: -1988822769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 97
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2bf317fbbf1794d9835aa59c628a4a
+      internalID: -1984891106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 66
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ad8862655a97469c8d9944a348847
+      internalID: 2111668361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f541b4924c90640b293732eaeefabd
+      internalID: 1211677232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 83
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c24c2ef672c01644824661189457d16
+      internalID: 235165162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 59
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ad427ac96d494b9e99ba6628cb6d7
+      internalID: -312051313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 56
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8335c91f7a7f428c26b9b856c4652
+      internalID: -1948272793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 57
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21707a5961817e843873adfd931e6802
+      internalID: 943802554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 59
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb00a01e864e8c40b905dad5c56554c
+      internalID: -141290832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 59
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01625aab901bc02419b863046255373b
+      internalID: -1173538270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_11: -1303343360
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_21: -1173538270
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_20: -141290832
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_9: 124928386
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_16: 235165162
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_19: 943802554
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_15: 1211677232
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_17: -312051313
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_18: -1948272793
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_0: -2112631067
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_14: 2111668361
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_12: -1988822769
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_4: 1747036895
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_7: -140469610
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_5: 1589819132
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_1: -477013298
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_13: -1984891106
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_10: -380445038
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_2: 960714018
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_3: -818864257
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_8: -2095873060
+      hand-drawn-animation-frames-element-collection_23-2149726530-fotor-bg-remover-2023121313729_6: 1894437050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
