@@ -9,8 +9,10 @@ public class playerStat : MonoBehaviour
     public int health = 6 ;
     public int lives = 3;
     public TextMeshProUGUI scoreUI;
+    public TextMeshProUGUI livesUI;
     private float flickerTime = 0f;
     private float flickerDuration = 0.1f;
+    private int kills = 0;
     
     private SpriteRenderer spriteRenderer;
     public GameObject gameOverScreen;
@@ -22,13 +24,14 @@ public class playerStat : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        livesUI.text = "" + lives;
         spriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-       // scoreUI.text = "" + coinsCollected;
+       scoreUI.text = "" + kills;
         if(this.isImmune == true){
             SpriteFlicker();
             immunityTime = immunityTime + Time.deltaTime;
@@ -57,6 +60,7 @@ public class playerStat : MonoBehaviour
                 FindObjectOfType<LevelManager>().RespawnPlayer();
                 this.health = 6;
                 this.lives--;
+                livesUI.text = "" + lives;
             }else if(this.lives == 0 && this.health == 0){
                 Debug.Log("GameOver!");
                 gameOverScreen.SetActive(true);
@@ -74,5 +78,8 @@ public class playerStat : MonoBehaviour
     public void collect(int coinValue)
     {
         coinsCollected += coinValue;
+    }
+    public void addKill(){
+        kills+=1;
     }
 }
