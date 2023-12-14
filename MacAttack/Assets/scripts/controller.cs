@@ -37,14 +37,14 @@ public class controller : MonoBehaviour
         anime = GetComponent<Animator>();
         
     }
-
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(Return))
+        if (Input.GetKeyDown(Return))
         {
             Shoot();
+            
         }
+        
         if (Input.GetKey(Spacebar) && grounded){
             jump();
         }
@@ -68,6 +68,7 @@ public class controller : MonoBehaviour
     }
     void FixedUpdate(){
         grounded = Physics2D.OverlapCircle(groundCheck.position , groundCheckRadius , whatIsGround);
+        
     }
 
     void flip(){
