@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ketchup
+  - Enemy
+  - Wall
+  - Celling
+  - ground
   layers:
   - Default
   - TransparentFX
@@ -53,7 +56,4 @@ TagManager:
     locked: 0
   - name: Puzzle
     uniqueID: 3096131633
-    locked: 0
-  - name: ' '
-    uniqueID: 3931557987
     locked: 0
