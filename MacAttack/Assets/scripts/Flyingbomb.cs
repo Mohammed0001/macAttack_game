@@ -35,7 +35,9 @@ public class Flyingbomb : EnemyController
             FindObjectOfType<playerStat>().TakeDamage(damage);
             FlipY(); // Reverse the vertical direction when hitting the player
         }
+
     }
+
 
     // Reverse the vertical direction
     public void FlipY()
