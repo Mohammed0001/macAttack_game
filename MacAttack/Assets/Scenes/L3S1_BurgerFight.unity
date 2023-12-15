@@ -2520,7 +2520,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -11.77
+      value: 177.2
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3707,6 +3707,8 @@ GameObject:
   m_Component:
   - component: {fileID: 941307617}
   - component: {fileID: 941307616}
+  - component: {fileID: 941307619}
+  - component: {fileID: 941307618}
   m_Layer: 0
   m_Name: bkstore-removebg-preview
   m_TagString: Untagged
@@ -3781,6 +3783,45 @@ Transform:
   m_Father: {fileID: 22361357}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &941307618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941307615}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020d9f9dad48cd747b2565196a28b11b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  victoryScreen: {fileID: 2097239620}
+--- !u!61 &941307619
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941307615}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 8.02, y: 3.11}
+    newSize: {x: 8.02, y: 3.11}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 8.02, y: 3.11}
+  m_EdgeRadius: 0
 --- !u!1 &951363128
 GameObject:
   m_ObjectHideFlags: 0
@@ -7974,6 +8015,11 @@ SpriteRenderer:
 Transform:
   m_CorrespondingSourceObject: {fileID: 7953179371907219623, guid: afbc17286a5dcd540b7d7d69f03a69c8, type: 3}
   m_PrefabInstance: {fileID: 7953179371835319514}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2097239620 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 530035047213695950, guid: 588a905431b6c8642b14b0809eb9db59, type: 3}
+  m_PrefabInstance: {fileID: 2116506374}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2108033851
 PrefabInstance:

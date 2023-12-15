@@ -91,4 +91,7 @@ public class controller : MonoBehaviour
             FindObjectOfType<playerStat>().decreaseFries();
         }
     }
+    public void playVictory(){
+	anime.SetBool("victory", true);
+    }
 }
