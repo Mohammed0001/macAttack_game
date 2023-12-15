@@ -1,0 +1,2785 @@
+fileFormatVersion: 2
+guid: 0e30988440247f440a48294d4a0501af
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ronaldhaha_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 994
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3411a28de2da99545b2126adf00c29a8
+      internalID: -1896135153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 979
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e0c96ef281224c8ddccb7a3d10e79
+      internalID: 656920957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 978
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea95128f332994f934391d723f80db
+      internalID: 1473418260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 979
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25428ba56229f4e93fd76fa3c34cc7
+      internalID: 859049446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 983
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a8cfd60e1a514d9ac8ab90dd67f87
+      internalID: 881914250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 986
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5edb1237d4d90478a5ea169e58c6d5
+      internalID: -1266158736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 986
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7069295dd28bf4286df14c2798ecd1
+      internalID: -1319845273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 986
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffbb9fa44af6d84281df3dd2afb22bf
+      internalID: -1627345861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 986
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3695c072f6ba48af6601e338072cd
+      internalID: -243561082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 986
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c60f4572c044b42a87611efb6bfa8b
+      internalID: 2063323084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 881
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf4ce0277e6e764a83cf3584b112a55
+      internalID: -1657623781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 971
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b150a090cb33408b89907486ab0c6
+      internalID: 1322193825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 986
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82640d806ebd3074cab797c647b91080
+      internalID: 2106343430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 986
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3a0ad14b6efd4089a45d7db9d6205
+      internalID: 436740674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 986
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b851535e28048478cd1ce5a13ab325
+      internalID: -702732532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 970
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567da231106e30443ab753924f3e41e3
+      internalID: 336999123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 987
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0e4257ee6cc494fb1d5d3298e6061f
+      internalID: 1458993865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 986
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbc14c13c32ac4780fa7608e1c373e
+      internalID: -1619277987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_18
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 986
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94194c505569b04598c4eaef83328f0
+      internalID: -846896047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 986
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198155fb117e4444f8f0ffe3514facbb
+      internalID: 317690658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_20
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 986
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f8855495c4a8e4e833f93c7c59137f
+      internalID: 1497151378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_21
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 986
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c269b3f3cb2045aba31a8d9e28216
+      internalID: 361852576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_22
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 987
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235128bc97cee74fab366fd7a615ff4
+      internalID: 753442357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 986
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c40f886864d2d448a07bd18f6cc98d
+      internalID: -1808154763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_24
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 986
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6017f0499456c941977d4337c69922b
+      internalID: 1299162852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 886
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a2f106a3ce85e40ab7a0c60394ad71
+      internalID: -1687924653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 882
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e2f29be349f6478851d0a324c56cb
+      internalID: -1537875112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 882
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6f37422c3ac334d9198fc4a79ba649
+      internalID: -1993014369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 882
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310c23039e97a44ba4adc7b8a02fb1e
+      internalID: 1917137725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_29
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 882
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d46126e1ee777044851e47391165be5
+      internalID: 610234424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_30
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 970
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab56f396f57ee54a807c3a197891f97
+      internalID: -2130908145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_31
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 973
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c261ba4fc84e4e989f90ac89ce58c
+      internalID: -552849441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 882
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0c086b42db11b42b4895d0e70f2347
+      internalID: -348089831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_33
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 882
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2227305da2d1bda48af15fe593a51b53
+      internalID: 944373665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 970
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a444b38ec94d4b8af3a7b0deebf44
+      internalID: -2116424624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 882
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600fa44b92ca814419146b61b1e7b943
+      internalID: -408977351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_36
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 972
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79227d43cc5510438f4d7bc78dd2180
+      internalID: -1654047107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_37
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 842
+        width: 76
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c90c3ba6c29501468be52a29d50b5c5
+      internalID: 27647684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_38
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 972
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456744ecc2e8924e91a3eb49882cce5
+      internalID: 189837430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_39
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 958
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b78e0c25b2cf2e4599e2b8558461d5e
+      internalID: -886067155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 878
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d10288634a19494c826d7d87f6e9a67
+      internalID: 316217023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_41
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 958
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10e8c0c5055353419c1bbc11f76cbb1
+      internalID: 1416471254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 955
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af5d550cc72ac5419e90a9ac974ae4d
+      internalID: 1755876617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_43
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 958
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd5d57cc69acb46a35aea45a23c712
+      internalID: -518324694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_44
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 958
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bd2baeb072714991c093ed2a0e3cf
+      internalID: 903700052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 866
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102041b85b0a734ab3bb191a6216440
+      internalID: 963566121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 866
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36ab1baf2b743b49b60c28ca85ccbff
+      internalID: -2097144367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 866
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee4ab12324109742a7045f944b0af3b
+      internalID: 684750667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_48
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 867
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce10cdfe4bfc239409a9426428fdab2a
+      internalID: -1483303078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 868
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a4c851067d18479ce619b4af8839f
+      internalID: -758688235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_50
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 794
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba54a0460e8f544fb8dd411d76aa742
+      internalID: 1489987684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 786
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7895c9976de0e438e09c7ce9b1408e
+      internalID: -1056298009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 782
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f76313ebd1c2a40a114436663a932f
+      internalID: -650405406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_53
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 783
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40153f8967808f40ac9c946447af698
+      internalID: 1062587934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_54
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 783
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf5817e2fe8b34a8c9935e1a9d113d
+      internalID: 1174576993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_55
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 783
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f4ebac63526748a3b36b037597141
+      internalID: -1179713476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_56
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 846
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dbd733353d89943aa3aa7d77a8340a
+      internalID: 1406138194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_57
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 846
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923453764ab4984da614416461a4609
+      internalID: -2131955738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 762
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad42477223b38541b66830a8c30010c
+      internalID: -1716990017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 853
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdfc76f9f12b8b4e8ab6a296edf30d9
+      internalID: -1915261402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 854
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4285a9cadae5c4748bfa4f3e5ee90c6e
+      internalID: -2064840420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 762
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b18fd611b820554ca905fbfb884a468
+      internalID: -1008504942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 853
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae12f999d1996409b471a185ef0890
+      internalID: -1966371986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_63
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 842
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f10479c3dac9b9409e29c8cb6a352c4
+      internalID: -1835864283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 838
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e83e989b3b78774e91bea8bf7631e3f
+      internalID: -444506049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_65
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 855
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd787504c7f2084d9a099475135faa0
+      internalID: -514616447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_66
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 746
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1033b182692a3744ebc9477c9f513bed
+      internalID: 862413972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_67
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 742
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec8592a3b74c934abe5ce1b4ee0a4a0
+      internalID: 1401925371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_68
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 738
+        width: 52
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11cbb04e3137748a0e35814e9d4ee2
+      internalID: -1630669762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_69
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 838
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee61bedd570fde409079f3e8e8d1a50
+      internalID: -405863438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 839
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835cb5e59ccda654583507f64a48fea7
+      internalID: -772144036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 841
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931c8f75bf6ca94bb1c3af32e5b388c
+      internalID: 1601209964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_72
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 838
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be2185b71885c84e9794bb32616123c
+      internalID: -2020220005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_73
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 847
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa343278318beef42af27e0b8050d52f
+      internalID: 82160091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_74
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 835
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476075f9fb74044d831ff2c5c1e0a71
+      internalID: 1103628760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_75
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 822
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ead5155b19dc346ae1763f8df59fd4
+      internalID: 1574789701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_76
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 822
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb84ee0965290e4bba0260a67e1b63f
+      internalID: 1869640277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_77
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 819
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954e19bb34b6cc14f89f4b3a25a2c510
+      internalID: 1213464543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 710
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ecee5d375f7645bd115d3ba8bdc93
+      internalID: -1182419213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 606
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52651dc50a0e46c4884ec19f7d136fd3
+      internalID: -538351018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_80
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 706
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cafcde2fc68ef4fad2732f18680a8b
+      internalID: -1974375118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 606
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4fc1a63f5faa145aca6545a1ddd642
+      internalID: -1746189479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 706
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad95b2f42fd9a54e922fc03881a3b93
+      internalID: -1869920357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 606
+        width: 48
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b62a755ccd8cad40ac24b265c043ea9
+      internalID: 933202449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_84
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 702
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1f75b94dd07de47bf1616a00125cd3
+      internalID: 170370201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_85
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 606
+        width: 49
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58229240b2e5d5541916a2c62eff5fef
+      internalID: -328237003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 482
+        width: 91
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125440d68563eb4e802d55a54d35f70
+      internalID: 1303896021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_87
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 701
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b6d57d3470844ba10580c0d116db3
+      internalID: 611214831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_88
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 590
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837775312f1880c498daf4b10d88a856
+      internalID: 635678207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_89
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 703
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d7917b6a599d468f403f683f07954
+      internalID: 350004436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_90
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 701
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb6dba54ab74448b9697df4471dcd9
+      internalID: -1169423868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 610
+        width: 53
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc429ce6b4f6d8448d55321af87f370
+      internalID: 621663749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_92
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 679
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37f2cb626db5f49b685272c5f15947
+      internalID: -1315194793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_93
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 611
+        width: 52
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0fa290687a382478b943ee43a29cf2
+      internalID: -2065478850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_94
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 682
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f2e9a85a0a8d41ba113316b438ee1
+      internalID: 1211245360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_95
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 614
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693364815465966428d3d1c6cbcff8f0
+      internalID: 902693189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_96
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 683
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27baed1a4843f1240aa7b49ef483a952
+      internalID: -1415264751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_97
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 598
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c474136527d0640849ba85702679eb
+      internalID: 953451941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_98
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 698
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2791d92a1e4dd4d8d65dbaaa0735ec
+      internalID: -1005288077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_99
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 594
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0baf627804d04d949688f1460cc99
+      internalID: -1265765292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_100
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 698
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f0671bfe4f6249accff88994a6b92
+      internalID: -261991030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_101
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 594
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf710036baf4434587aebc43a59ebcf
+      internalID: -2071716862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_102
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 698
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dfb76852b56434bbff797195504495
+      internalID: 665247822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_103
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 606
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f2f48b9233d8449c5b3c475f313a6
+      internalID: 246596718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_104
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 698
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007685e15a9372c498b341fed8eccaf0
+      internalID: 251467205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_105
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 683
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b825e6e0f6924196f499b6d994dc1
+      internalID: -1991256905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 683
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886a36679f47874f99e6b465e6a9477
+      internalID: -1759606754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_107
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 682
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47fc89b200e4b74894ccc4223d1e30a
+      internalID: 1473719587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 125
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16101d2dfc25b5248b5355336891542b
+      internalID: -233510116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 462
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b402edcc18c388438b024bc18d2f45d
+      internalID: 2027512036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 482
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917ac35aa8006043b6771e5e443fa44
+      internalID: -1292548277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_111
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 470
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e78494ae41076d42b7ea09ba060c5bd
+      internalID: 1561764628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_112
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 474
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56866818b9fdb0b45ba3fdbc15d96778
+      internalID: -617056950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 474
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc9b26249a3cf49a261c63cec5224e
+      internalID: -1577838996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_114
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 494
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600f4804e41d764ab9baa51d9ba2409
+      internalID: -432654844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_115
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 494
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8060fb89fa25c34aaf061ffebc03dd6
+      internalID: -680059962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_116
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 494
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0df9d5ad3a2d44965bf1545418062
+      internalID: 1750314431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_117
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 494
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b554fd7be37aa49a999bfa05c09bfc
+      internalID: -231470690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_118
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 326
+        width: 46
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85730e06eb842540b1cb333973ad958
+      internalID: -1411899219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_119
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 47
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980640852f5f704a85bd015e0df5a77
+      internalID: -1588318337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ronaldhaha_120
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 768
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dacf243e8b53b4ba6e3b36e112b0e7
+      internalID: -1349325090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ronaldhaha_30: -2130908145
+      ronaldhaha_113: -1577838996
+      ronaldhaha_9: 2063323084
+      ronaldhaha_19: 317690658
+      ronaldhaha_44: 903700052
+      ronaldhaha_46: -2097144367
+      ronaldhaha_4: 881914250
+      ronaldhaha_17: -1619277987
+      ronaldhaha_38: 189837430
+      ronaldhaha_29: 610234424
+      ronaldhaha_66: 862413972
+      ronaldhaha_59: -1915261402
+      ronaldhaha_93: -2065478850
+      ronaldhaha_109: 2027512036
+      ronaldhaha_64: -444506049
+      ronaldhaha_16: 1458993865
+      ronaldhaha_35: -408977351
+      ronaldhaha_14: -702732532
+      ronaldhaha_69: -405863438
+      ronaldhaha_57: -2131955738
+      ronaldhaha_53: 1062587934
+      ronaldhaha_67: 1401925371
+      ronaldhaha_55: -1179713476
+      ronaldhaha_91: 621663749
+      ronaldhaha_114: -432654844
+      ronaldhaha_42: 1755876617
+      ronaldhaha_96: -1415264751
+      ronaldhaha_20: 1497151378
+      ronaldhaha_65: -514616447
+      ronaldhaha_92: -1315194793
+      ronaldhaha_70: -772144036
+      ronaldhaha_104: 251467205
+      ronaldhaha_106: -1759606754
+      ronaldhaha_90: -1169423868
+      ronaldhaha_101: -2071716862
+      ronaldhaha_18: -846896047
+      ronaldhaha_111: 1561764628
+      ronaldhaha_27: -1993014369
+      ronaldhaha_0: -1896135153
+      ronaldhaha_41: 1416471254
+      ronaldhaha_36: -1654047107
+      ronaldhaha_21: 361852576
+      ronaldhaha_45: 963566121
+      ronaldhaha_76: 1869640277
+      ronaldhaha_88: 635678207
+      ronaldhaha_47: 684750667
+      ronaldhaha_50: 1489987684
+      ronaldhaha_87: 611214831
+      ronaldhaha_72: -2020220005
+      ronaldhaha_54: 1174576993
+      ronaldhaha_102: 665247822
+      ronaldhaha_89: 350004436
+      ronaldhaha_81: -1746189479
+      ronaldhaha_110: -1292548277
+      ronaldhaha_77: 1213464543
+      ronaldhaha_100: -261991030
+      ronaldhaha_115: -680059962
+      ronaldhaha_58: -1716990017
+      ronaldhaha_37: 27647684
+      ronaldhaha_83: 933202449
+      ronaldhaha_6: -1319845273
+      ronaldhaha_8: -243561082
+      ronaldhaha_39: -886067155
+      ronaldhaha_1: 656920957
+      ronaldhaha_34: -2116424624
+      ronaldhaha_74: 1103628760
+      ronaldhaha_48: -1483303078
+      ronaldhaha_97: 953451941
+      ronaldhaha_85: -328237003
+      ronaldhaha_5: -1266158736
+      ronaldhaha_112: -617056950
+      ronaldhaha_25: -1687924653
+      ronaldhaha_43: -518324694
+      ronaldhaha_78: -1182419213
+      ronaldhaha_82: -1869920357
+      ronaldhaha_12: 2106343430
+      ronaldhaha_49: -758688235
+      ronaldhaha_107: 1473719587
+      ronaldhaha_2: 1473418260
+      ronaldhaha_22: 753442357
+      ronaldhaha_119: -1588318337
+      ronaldhaha_33: 944373665
+      ronaldhaha_56: 1406138194
+      ronaldhaha_98: -1005288077
+      ronaldhaha_62: -1966371986
+      ronaldhaha_108: -233510116
+      ronaldhaha_13: 436740674
+      ronaldhaha_68: -1630669762
+      ronaldhaha_94: 1211245360
+      ronaldhaha_24: 1299162852
+      ronaldhaha_23: -1808154763
+      ronaldhaha_116: 1750314431
+      ronaldhaha_60: -2064840420
+      ronaldhaha_32: -348089831
+      ronaldhaha_86: 1303896021
+      ronaldhaha_26: -1537875112
+      ronaldhaha_40: 316217023
+      ronaldhaha_52: -650405406
+      ronaldhaha_73: 82160091
+      ronaldhaha_103: 246596718
+      ronaldhaha_120: -2031840057
+      ronaldhaha_105: -1991256905
+      ronaldhaha_118: -1411899219
+      ronaldhaha_7: -1627345861
+      ronaldhaha_84: 170370201
+      ronaldhaha_51: -1056298009
+      ronaldhaha_3: 859049446
+      ronaldhaha_99: -1265765292
+      ronaldhaha_95: 902693189
+      ronaldhaha_63: -1835864283
+      ronaldhaha_28: 1917137725
+      ronaldhaha_75: 1574789701
+      ronaldhaha_117: -231470690
+      ronaldhaha_61: -1008504942
+      ronaldhaha_31: -552849441
+      ronaldhaha_10: -1657623781
+      ronaldhaha_11: 1322193825
+      ronaldhaha_15: 336999123
+      ronaldhaha_71: 1601209964
+      ronaldhaha_80: -1974375118
+      ronaldhaha_79: -538351018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
