@@ -1,74 +1,52 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+
 
 public class bunstairs : MonoBehaviour
 {
-    private SpriteRenderer sr;
+    public float timeToDisappear = 3f; // Time in seconds before the platform disappears
+    public float timeToReappear = 2f; // Time in seconds before the platform reappears
 
-    public Sprite explodedBlock;
-
-    private bool playerOnBrick = false;
-    private float timeOnBrick = 0f;
-    private bool brickVisible = true;
-
-    private void Start()
-    {
-        sr = GetComponent<SpriteRenderer>();
-    }
+    private bool isPlayerOnPlatform = false;
+    private float timeOnPlatform = 0f;
 
     private void Update()
     {
-        if (playerOnBrick)
+        if (isPlayerOnPlatform)
         {
-            timeOnBrick += Time.deltaTime;
+            timeOnPlatform += Time.deltaTime;
 
-            if (timeOnBrick >= 3f)
+            if (timeOnPlatform >= timeToDisappear)
             {
-                if (brickVisible)
-                {
-                    // Flicker effect (you can modify this part based on your requirements)
-                    StartCoroutine(FlickerEffect());
-                    brickVisible = false;
-                }
-
-                if (timeOnBrick >= 5f) // 3 seconds on brick + 2 seconds reappear time
-                {
-                    // Reappear the brick (you can add a visual effect or animation)
-                    Reappear();
-                }
+                GetComponent<SpriteRenderer>().enabled = false; // Disappear the platform
+                Invoke("ReappearPlatform", timeToReappear); // Reappear the platform after specified time
             }
         }
-    }
-
-    private void OnCollisionEnter2D(Collision2D other)
-    {
-        if (other.gameObject.CompareTag("Player") && other.GetContact(0).point.y < transform.position.y)
+        else
         {
-            playerOnBrick = true;
+            timeOnPlatform = 0f; // Reset the timer when the player is not on the platform
         }
     }
 
-    private void OnCollisionExit2D(Collision2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
-            playerOnBrick = false;
+            isPlayerOnPlatform = true;
         }
     }
 
-    private IEnumerator FlickerEffect()
+    private void OnTriggerExit2D(Collider2D other)
     {
-        // Simple flicker effect: toggle visibility for a short duration
-        gameObject.SetActive(false);
-        yield return new WaitForSeconds(0.1f); // Adjust as needed
-        gameObject.SetActive(true);
+        if (other.CompareTag("Player"))
+        {
+            isPlayerOnPlatform = false;
+        }
     }
 
-    private void Reappear()
+    private void ReappearPlatform()
     {
-        // Reset the brick appearance
-        brickVisible = true;
-        timeOnBrick = 0f;
-        gameObject.SetActive(true);
+        GetComponent<SpriteRenderer>().enabled = true; // Reappear the platform
     }
 }
