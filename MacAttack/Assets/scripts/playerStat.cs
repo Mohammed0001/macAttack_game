@@ -10,6 +10,7 @@ public class playerStat : MonoBehaviour
     public int lives = 3;
 
     public TextMeshProUGUI scoreUI;
+    public TextMeshProUGUI coinsUI;
     public GameObject[] livesUIs;
     public TextMeshProUGUI burgersUI;
     public TextMeshProUGUI friesUI;
@@ -52,6 +53,9 @@ public class playerStat : MonoBehaviour
         }
         if(scoreUI != null){
            scoreUI.text = "" + kills;
+        }
+        if(coinsUI != null){
+           coinsUI.text = "" + coinsCollected;
         }
         if(this.isImmune == true){
             SpriteFlicker();
