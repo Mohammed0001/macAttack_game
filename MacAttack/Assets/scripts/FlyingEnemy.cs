@@ -34,6 +34,7 @@ public class FlyingEnemy : EnemyController
     void OnTriggerEnter2D(Collider2D collider){
         if(collider.tag == "Wall"){
             FlipX();
+            Flip();
         }
         if(collider.tag == "Celling" || collider.tag == "ground"){
             FlipY();
