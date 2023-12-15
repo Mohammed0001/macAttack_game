@@ -19,7 +19,8 @@ public class bunstairs : MonoBehaviour
 
             if (timeOnPlatform >= timeToDisappear)
             {
-                GetComponent<SpriteRenderer>().enabled = false; // Disappear the platform
+                this.gameObject.SetActive(false);
+                //GetComponent<SpriteRenderer>().enabled = false; // Disappear the platform
                 Invoke("ReappearPlatform", timeToReappear); // Reappear the platform after specified time
             }
         }
@@ -47,6 +48,8 @@ public class bunstairs : MonoBehaviour
 
     private void ReappearPlatform()
     {
-        GetComponent<SpriteRenderer>().enabled = true; // Reappear the platform
+        this.gameObject.SetActive(true);
+
+        // GetComponent<SpriteRenderer>().enabled = true; // Reappear the platform
     }
 }
