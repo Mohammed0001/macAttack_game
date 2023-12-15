@@ -109,9 +109,12 @@ public class playerStat : MonoBehaviour
     }
     public void addFries(){
         friesBullets+=1;
+        Debug.Log("Fries : " + friesBullets);
     }
     public void addBurger(){
         BurgerBullets+=1;
+        Debug.Log("Burgers : " + BurgerBullets);
+
     }
     public int getBurgers(){return BurgerBullets;}
     public int getFries(){return friesBullets;}
