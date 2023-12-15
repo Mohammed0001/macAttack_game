@@ -8,38 +8,57 @@ public class playerStat : MonoBehaviour
     
     public int health = 6 ;
     public int lives = 3;
+
     public TextMeshProUGUI scoreUI;
     public TextMeshProUGUI livesUI;
+    public TextMeshProUGUI burgersUI;
+    public TextMeshProUGUI friesUI;
+
     private float flickerTime = 0f;
     private float flickerDuration = 0.1f;
+    
     private int kills = 0;
     
     private SpriteRenderer spriteRenderer;
     public GameObject gameOverScreen;
+
     public bool isImmune = false;
     private float immunityTime = 0f;
     public float immunityDuration = 1.5f;
+
     public Image healthBar;
     public int coinsCollected = 0;
+
+    static public int friesBullets = 10;
+    static public int BurgerBullets = 5;
+
     // Start is called before the first frame update
     void Start()
     {
-        livesUI.text = "" + lives;
+        if(livesUI != null){
+            livesUI.text = "" + lives;
+        }
         spriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
-       scoreUI.text = "" + kills;
+        if(friesUI != null){
+           friesUI.text = "" + friesBullets;
+           burgersUI.text = "" + BurgerBullets;
+        }
+        if(scoreUI != null){
+           scoreUI.text = "" + kills;
+        }
         if(this.isImmune == true){
             SpriteFlicker();
             immunityTime = immunityTime + Time.deltaTime;
-        if(immunityTime >= immunityDuration){
-            this.isImmune = false;
-            this.spriteRenderer.enabled = true;
-        }
-       } 
+            if(immunityTime >= immunityDuration){
+                this.isImmune = false;
+                this.spriteRenderer.enabled = true;
+            }
+        } 
     }
 
     void SpriteFlicker(){
@@ -82,4 +101,20 @@ public class playerStat : MonoBehaviour
     public void addKill(){
         kills+=1;
     }
+    public void decreaseFries(){
+        friesBullets-=1;
+    }
+    public void decreaseBurgers(){
+        BurgerBullets-=1;
+    }
+    public void addFries(){
+        friesBullets+=1;
+    }
+    public void addBurger(){
+        BurgerBullets+=1;
+    }
+    public int getBurgers(){return BurgerBullets;}
+    public int getFries(){return friesBullets;}
+
+
 }
