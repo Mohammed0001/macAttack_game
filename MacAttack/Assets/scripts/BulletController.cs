@@ -5,6 +5,8 @@ using UnityEngine;
 public class BulletController : MonoBehaviour
 {
     public float Speed;
+    public float duration = 1.5f;
+    public float bulletTime = 0;
     void Start()
     {
         controller player;
@@ -17,6 +19,10 @@ public class BulletController : MonoBehaviour
     }
     void Update()
     {
+        bulletTime = bulletTime + Time.deltaTime;
+        if(bulletTime >= duration){
+            Destroy(this.gameObject);        
+        }
         GetComponent<Rigidbody2D>().velocity = new Vector2(Speed,GetComponent<Rigidbody2D>().velocity.y);
     }
 
@@ -25,9 +31,6 @@ public class BulletController : MonoBehaviour
         {
             FindObjectOfType<playerStat>().addKill();
             Destroy(other.gameObject);
-            Destroy(this.gameObject);
-        }
-        if(other.tag == "Wall"){
             Destroy(this.gameObject);
         }
     }
