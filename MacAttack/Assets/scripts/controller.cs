@@ -15,13 +15,15 @@ public class controller : MonoBehaviour
     public KeyCode L;
     public KeyCode R;
 
-    public KeyCode Return;
+    public KeyCode shootBrgr;
+    public KeyCode shootFries;
 
 
     public Transform groundCheck;
     public Transform firePoint;
 
-    public GameObject bullet;
+    public GameObject firesBullet;
+    public GameObject burgerbullet;
 
     public float groundCheckRadius;
 
@@ -39,10 +41,13 @@ public class controller : MonoBehaviour
     }
     void Update()
     {
-        if (Input.GetKeyDown(Return))
+        if (Input.GetKeyDown(shootBrgr))
         {
-            Shoot();
-            
+            Shoot(1);
+        }
+        if (Input.GetKeyDown(shootFries))
+        {
+            Shoot(2);
         }
         
         if (Input.GetKey(Spacebar) && grounded){
@@ -60,7 +65,6 @@ public class controller : MonoBehaviour
             if(!isFacingRight){
                 flip();
                 isFacingRight = true;
-
             }
         }
         anime.SetFloat("speed",Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
@@ -68,7 +72,6 @@ public class controller : MonoBehaviour
     }
     void FixedUpdate(){
         grounded = Physics2D.OverlapCircle(groundCheck.position , groundCheckRadius , whatIsGround);
-        
     }
 
     void flip(){
@@ -79,9 +82,13 @@ public class controller : MonoBehaviour
        // AudioManager.instance.RandomizeSFX(jump1,jump2);
     }
 
-    public void Shoot(){
-        Instantiate(bullet, firePoint.position, firePoint.rotation);
+    public void Shoot(int t){
+        if(t == 1 && FindObjectOfType<playerStat>().getBurgers() > 0){
+            Instantiate(burgerbullet, firePoint.position, firePoint.rotation);
+            FindObjectOfType<playerStat>().decreaseBurgers();
+        }else if(t == 2 && FindObjectOfType<playerStat>().getFries() > 0){
+            Instantiate(firesBullet, firePoint.position, firePoint.rotation);
+            FindObjectOfType<playerStat>().decreaseFries();
+        }
     }
-
-    
 }
