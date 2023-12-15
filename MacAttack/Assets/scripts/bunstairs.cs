@@ -1,85 +1,74 @@
-
 using System.Collections;
 using UnityEngine;
 
 public class bunstairs : MonoBehaviour
 {
     private SpriteRenderer sr;
+
     public Sprite explodedBlock;
-    private Sprite originalSprite;
-    private bool isPlayerOnBrick = false;
 
-    public float flickerDuration = 1f;
-    public float disappearTime = 5f;
-    public float appearTime = 3f;
+    private bool playerOnBrick = false;
+    private float timeOnBrick = 0f;
+    private bool brickVisible = true;
 
-    void Start()
+    private void Start()
     {
         sr = GetComponent<SpriteRenderer>();
-        originalSprite = sr.sprite;
     }
 
-    void Update()
+    private void Update()
     {
-        if (isPlayerOnBrick)
+        if (playerOnBrick)
         {
-            StartCoroutine(FlickerAndDisappear());
+            timeOnBrick += Time.deltaTime;
+
+            if (timeOnBrick >= 3f)
+            {
+                if (brickVisible)
+                {
+                    // Flicker effect (you can modify this part based on your requirements)
+                    StartCoroutine(FlickerEffect());
+                    brickVisible = false;
+                }
+
+                if (timeOnBrick >= 5f) // 3 seconds on brick + 2 seconds reappear time
+                {
+                    // Reappear the brick (you can add a visual effect or animation)
+                    Reappear();
+                }
+            }
         }
     }
 
-    void OnCollisionStay2D(Collision2D other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        // Check if the collision is with the player and the contact point is below the brick
-        if (other.gameObject.CompareTag("Player") && other.GetContact(0).point.y > transform.position.y)
+        if (other.gameObject.CompareTag("Player") && other.GetContact(0).point.y < transform.position.y)
         {
-            isPlayerOnBrick = true;
+            playerOnBrick = true;
         }
     }
 
-    void OnCollisionExit2D(Collision2D other)
+    private void OnCollisionExit2D(Collision2D other)
     {
-        // Reset the flag when the player leaves the brick
         if (other.gameObject.CompareTag("Player"))
         {
-            isPlayerOnBrick = false;
+            playerOnBrick = false;
         }
     }
 
-    IEnumerator FlickerAndDisappear()
+    private IEnumerator FlickerEffect()
     {
-        // Flicker before disappearing
-        yield return StartCoroutine(FlickerEffect(flickerDuration));
-
-        // Wait for specified disappear time
-        yield return new WaitForSeconds(disappearTime);
-
-        // Set the sprite to explodedBlock
-        sr.sprite = explodedBlock;
-
-        // Wait for specified appear time
-        yield return new WaitForSeconds(appearTime);
-
-        // Reset the sprite to the original sprite
-        sr.sprite = originalSprite;
-
-        // Reset the flag
-        isPlayerOnBrick = false;
+        // Simple flicker effect: toggle visibility for a short duration
+        gameObject.SetActive(false);
+        yield return new WaitForSeconds(0.1f); // Adjust as needed
+        gameObject.SetActive(true);
     }
 
-    IEnumerator FlickerEffect(float duration)
+    private void Reappear()
     {
-        float flickerStartTime = Time.time;
-
-        while (Time.time < flickerStartTime + duration)
-        {
-            // Toggle visibility by changing alpha value
-            sr.enabled = !sr.enabled;
-
-            // Wait for a short duration between toggles
-            yield return new WaitForSeconds(0.1f);
-        }
-
-        // Ensure the sprite renderer is enabled when the flicker effect ends
-        sr.enabled = true;
+        // Reset the brick appearance
+        brickVisible = true;
+        timeOnBrick = 0f;
+        gameObject.SetActive(true);
     }
 }
