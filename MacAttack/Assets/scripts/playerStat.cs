@@ -10,7 +10,7 @@ public class playerStat : MonoBehaviour
     public int lives = 3;
 
     public TextMeshProUGUI scoreUI;
-    public GameObject[] livesUIs;
+    public TextMeshProUGUI livesUI;
     public TextMeshProUGUI burgersUI;
     public TextMeshProUGUI friesUI;
 
@@ -29,20 +29,14 @@ public class playerStat : MonoBehaviour
     public Image healthBar;
     public int coinsCollected = 0;
 
-
     static public int friesBullets = 10;
     static public int BurgerBullets = 5;
 
     // Start is called before the first frame update
     void Start()
     {
-        if(livesUIs != null){
-            // livesUIs[0].enable = true;
-            // livesUIs[1].enable = true;
-            // livesUIs[2].enable = true;
-            livesUIs[0].SetActive(true);
-            livesUIs[1].SetActive(true);
-            livesUIs[2].SetActive(true);
+        if(livesUI != null){
+            livesUI.text = "" + lives;
         }
         spriteRenderer = this.gameObject.GetComponent<SpriteRenderer>();
     }
@@ -57,10 +51,6 @@ public class playerStat : MonoBehaviour
         if(scoreUI != null){
            scoreUI.text = "" + kills;
         }
-        // if(healthBar != null){
-        //     healthBar.fillAmount = this.health / 6f;
-        // }
-
         if(this.isImmune == true){
             SpriteFlicker();
             immunityTime = immunityTime + Time.deltaTime;
@@ -82,19 +72,14 @@ public class playerStat : MonoBehaviour
     public void TakeDamage(int damage){
         if(this.isImmune == false){
             this.health = health - damage;
-            //if(healthBar != null){
-                healthBar.fillAmount = this.health / 6f;
-            //}
+           // healthBar.fillAmount = this.health / 10f;
             if(this.health < 0)
                 this.health = 0;
             if(this.lives > 0 && this.health == 0){
                 FindObjectOfType<LevelManager>().RespawnPlayer();
                 this.health = 6;
-                if(healthBar != null){
-                    healthBar.fillAmount = this.health / 6f;
-                }
-                livesUIs[lives - 1].SetActive(false);
                 this.lives--;
+                livesUI.text = "" + lives;
             }else if(this.lives == 0 && this.health == 0){
                 Debug.Log("GameOver!");
                 gameOverScreen.SetActive(true);
