@@ -8,11 +8,16 @@ public class Flyingbomb : EnemyController
     public float Amplitude;
     public float MinY; // Set the minimum y position
     public float MaxY; // Set the maximum y position
+    protected SpriteRenderer sr;
+
+    public Sprite explodedBlock;
 
     private Vector3 startPosition;
 
     void Start()
     {
+        sr = GetComponent<SpriteRenderer>();
+
         startPosition = transform.position;
     }
 
@@ -34,6 +39,8 @@ public class Flyingbomb : EnemyController
         {
             FindObjectOfType<playerStat>().TakeDamage(damage);
             FlipY(); // Reverse the vertical direction when hitting the player
+            sr.sprite = explodedBlock;
+            Object.Destroy(gameObject, .2f);
         }
 
     }
