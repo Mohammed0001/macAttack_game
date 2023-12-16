@@ -5826,7 +5826,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6657786281508405389, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
       propertyPath: m_Name
-      value: AudioManager (1)
+      value: AudioManager
       objectReference: {fileID: 0}
     - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
       propertyPath: m_RootOrder
