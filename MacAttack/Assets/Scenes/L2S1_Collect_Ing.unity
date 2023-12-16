@@ -1431,11 +1431,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8465554128392730484, guid: 38fcdacf84ad223438eb464048a132d2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 94.05966
+      value: 95.53
       objectReference: {fileID: 0}
     - target: {fileID: 8465554128392730484, guid: 38fcdacf84ad223438eb464048a132d2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.32738686
+      value: 0.54
       objectReference: {fileID: 0}
     - target: {fileID: 8465554128392730484, guid: 38fcdacf84ad223438eb464048a132d2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2804,6 +2804,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1914920512288379969, guid: 8a1e23efd10e5f24896a032bfda6690c, type: 3}
+      propertyPath: collectAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: cdc45ec2599cb5e4380091c9a825ccb3, type: 3}
     - target: {fileID: 3246680167126357658, guid: 8a1e23efd10e5f24896a032bfda6690c, type: 3}
       propertyPath: m_Name
       value: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_8 (3)
@@ -3084,11 +3088,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -51.38
+      value: -73.2
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -25.11
+      value: -25.37
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3298,7 +3302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!1 &888125036 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8465554128392730490, guid: 38fcdacf84ad223438eb464048a132d2, type: 3}
@@ -3316,7 +3320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!1 &908290270
 GameObject:
   m_ObjectHideFlags: 0
@@ -3446,7 +3450,7 @@ MonoBehaviour:
   MinY: -26.55
   MaxY: 2
   explodedBlock: {fileID: -2009713788, guid: 44d1b963a8bb7d84386d5a73f4e49e58, type: 3}
-  bombAudio: {fileID: 0}
+  bombAudio: {fileID: 8300000, guid: e91c468235b538a4aa995df3d15f9876, type: 3}
 --- !u!212 &1005171463
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3677,7 +3681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!1 &1078018693
 GameObject:
   m_ObjectHideFlags: 0
@@ -4250,7 +4254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!1001 &1181213814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4276,7 +4280,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7518621997839096867, guid: 5849cdb1b29ecba45924f6bee8aa5365, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 191.2
+      value: 192.07
       objectReference: {fileID: 0}
     - target: {fileID: 7518621997839096867, guid: 5849cdb1b29ecba45924f6bee8aa5365, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4927,7 +4931,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!1001 &1538197059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5011,7 +5015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!4 &1562770415 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8266601590760941359, guid: f5c183386ecff084fab1b21ca8a11a53, type: 3}
@@ -5892,7 +5896,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!1 &1879977214
 GameObject:
   m_ObjectHideFlags: 0
@@ -6014,7 +6018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wrongCollectAudio: {fileID: 0}
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!4 &1998485485 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1648376961788710130, guid: 8a1e23efd10e5f24896a032bfda6690c, type: 3}
@@ -6582,6 +6586,24 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2076445772}
   m_CullTransparentMesh: 1
+--- !u!1 &2084833447 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4062245527822772785, guid: 51421b2a3b60ae842add9548952300bc, type: 3}
+  m_PrefabInstance: {fileID: 4062245527092145163}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2084833451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084833447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}
 --- !u!4 &2124510082 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3497223341916176463, guid: 452a86fd72db7a545ad8332580d98969, type: 3}
@@ -6695,6 +6717,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1914920512288379969, guid: 8a1e23efd10e5f24896a032bfda6690c, type: 3}
+      propertyPath: collectAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: cdc45ec2599cb5e4380091c9a825ccb3, type: 3}
     - target: {fileID: 3246680167126357658, guid: 8a1e23efd10e5f24896a032bfda6690c, type: 3}
       propertyPath: m_Name
       value: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_8 (3)
@@ -7104,11 +7130,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4062245526080570707, guid: 51421b2a3b60ae842add9548952300bc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 86.67784
+      value: 88.93
       objectReference: {fileID: 0}
     - target: {fileID: 4062245526080570707, guid: 51421b2a3b60ae842add9548952300bc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.42918205
+      value: 1.82
       objectReference: {fileID: 0}
     - target: {fileID: 4062245526080570707, guid: 51421b2a3b60ae842add9548952300bc, type: 3}
       propertyPath: m_LocalPosition.z
