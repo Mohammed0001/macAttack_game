@@ -1457,7 +1457,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: bean-hummus-icon-cartoon-paste-food-vector-removebg-preview (2)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3924506099467650589, guid: 4f06a73ac36b63544a043b33f4e40bf9, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 4f06a73ac36b63544a043b33f4e40bf9, type: 3}
 --- !u!1001 &267646423
 PrefabInstance:
@@ -10393,7 +10394,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 297734566575834607, guid: acd76912d1d5d7e469b0bae849247811, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: acd76912d1d5d7e469b0bae849247811, type: 3}
 --- !u!1001 &9215566443878386243
 PrefabInstance:

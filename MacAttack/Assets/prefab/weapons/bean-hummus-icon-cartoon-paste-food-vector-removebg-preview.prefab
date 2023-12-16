@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3967072162271885128}
   - component: {fileID: 4352716068669541137}
   - component: {fileID: 3495387146795288952}
-  - component: {fileID: 3924506099467650589}
+  - component: {fileID: 7194013807933428060}
   m_Layer: 0
   m_Name: bean-hummus-icon-cartoon-paste-food-vector-removebg-preview
   m_TagString: Untagged
@@ -112,7 +112,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 4.39633, y: 2.6281044}
   m_EdgeRadius: 0
---- !u!114 &3924506099467650589
+--- !u!114 &7194013807933428060
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8527458780394874010}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 626e703dcd008644c91fef2b3d326963, type: 3}
+  m_Script: {fileID: 11500000, guid: c429662964306ef40b6af7d3f01bea29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinValue: -2
+  negativeValue: 2
