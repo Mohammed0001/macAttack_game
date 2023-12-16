@@ -208,10 +208,12 @@ MonoBehaviour:
   Spacebar: 32
   L: 276
   R: 275
-  Return: 13
+  shootBrgr: 0
+  shootFries: 0
   groundCheck: {fileID: 1120503320}
   firePoint: {fileID: 0}
-  bullet: {fileID: 0}
+  firesBullet: {fileID: 0}
+  burgerbullet: {fileID: 0}
   groundCheckRadius: 0.5
   whatIsGround:
     serializedVersion: 2
@@ -231,7 +233,11 @@ MonoBehaviour:
   health: 10
   lives: 3
   scoreUI: {fileID: 0}
+  coinsUI: {fileID: 0}
+  livesUIs: []
+  burgersUI: {fileID: 0}
+  friesUI: {fileID: 0}
+  gameOverScreen: {fileID: 0}
   isImmune: 0
   immunityDuration: 1.5
   healthBar: {fileID: 0}
-  coinsCollected: 0
