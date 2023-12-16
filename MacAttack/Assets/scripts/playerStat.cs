@@ -10,6 +10,7 @@ public class playerStat : MonoBehaviour
     public int lives = 3;
 
     public TextMeshProUGUI scoreUI;
+    public TextMeshProUGUI coinsUI;
     public GameObject[] livesUIs;
     public TextMeshProUGUI burgersUI;
     public TextMeshProUGUI friesUI;
@@ -27,10 +28,10 @@ public class playerStat : MonoBehaviour
     public float immunityDuration = 1.5f;
 
     public Image healthBar;
-    public int coinsCollected = 0;
+    public static int coinsCollected = 0;
 
-    static public int friesBullets = 10;
-    static public int BurgerBullets = 5;
+    static public int friesBullets = 0;
+    static public int BurgerBullets = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -52,6 +53,9 @@ public class playerStat : MonoBehaviour
         }
         if(scoreUI != null){
            scoreUI.text = "" + kills;
+        }
+        if(coinsUI != null){
+           coinsUI.text = "" + coinsCollected;
         }
         if(this.isImmune == true){
             SpriteFlicker();
@@ -117,11 +121,15 @@ public class playerStat : MonoBehaviour
         BurgerBullets-=1;
     }
     public void addFries(){
-        friesBullets+=1;
+        if(friesBullets < 100){
+            friesBullets+=(1 * coinsCollected / 6) ;
+        }
         Debug.Log("Fries : " + friesBullets);
     }
     public void addBurger(){
-        BurgerBullets+=1;
+        if(BurgerBullets < 100){
+            BurgerBullets+=(1 * coinsCollected / 6);
+        }
         Debug.Log("Burgers : " + BurgerBullets);
 
     }

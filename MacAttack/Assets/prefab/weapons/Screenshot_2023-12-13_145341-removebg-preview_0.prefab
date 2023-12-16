@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9092599633751847432}
   - component: {fileID: 7358996453113604416}
   - component: {fileID: 6206464931771355718}
-  - component: {fileID: 297734566575834607}
+  - component: {fileID: 7983377017244089172}
   m_Layer: 0
   m_Name: Screenshot_2023-12-13_145341-removebg-preview_0
   m_TagString: Untagged
@@ -112,7 +112,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8, y: 0.69}
   m_EdgeRadius: 0
---- !u!114 &297734566575834607
+--- !u!114 &7983377017244089172
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5958345973032213030}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 626e703dcd008644c91fef2b3d326963, type: 3}
+  m_Script: {fileID: 11500000, guid: c429662964306ef40b6af7d3f01bea29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinValue: -2
+  negativeValue: 2
