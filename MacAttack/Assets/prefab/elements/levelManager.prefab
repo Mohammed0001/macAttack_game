@@ -46,3 +46,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentCheckpoint: {fileID: 0}
   enemy: {fileID: 0}
+  respawnAudio: {fileID: 8300000, guid: be90cc76aa19cad47b34dd1e74ac55bd, type: 3}

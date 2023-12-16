@@ -6,9 +6,13 @@ using TMPro;
 public class mazeStat : MonoBehaviour
 {
     public TextMeshProUGUI timerUI;
-    private float timer = 60f;
+    public AudioClip victoryAudio;
+    private float timer = 90f;
     public GameObject victoryScreen;
     public GameObject gameOverScreen;
+    
+
+
     // Update is called once per frame
     void Update()
     {
@@ -28,6 +32,7 @@ public class mazeStat : MonoBehaviour
     }
     public void vicroty(){
         victoryScreen.SetActive(true);
+        AudioManager.instance.RandomizeSFX(victoryAudio);
         Time.timeScale=0;
     }
 }

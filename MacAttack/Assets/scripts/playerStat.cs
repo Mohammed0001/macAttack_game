@@ -29,6 +29,7 @@ public class playerStat : MonoBehaviour
 
     public Image healthBar;
     public static int coinsCollected = 0;
+    public AudioClip healthAudio;
 
     static public int friesBullets = 0;
     static public int BurgerBullets = 0;
@@ -78,6 +79,8 @@ public class playerStat : MonoBehaviour
     public void TakeDamage(int damage){
         if(this.isImmune == false){
             this.health = health - damage;
+            AudioManager.instance.RandomizeSFX(healthAudio);
+
             if(healthBar != null){
                 healthBar.fillAmount = this.health / 6f;
             }

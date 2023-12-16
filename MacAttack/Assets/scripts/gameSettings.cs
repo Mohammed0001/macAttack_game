@@ -43,6 +43,10 @@ public class gameSettings : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         Time.timeScale=1;
     }
+    public void reStartAllGame(){
+        SceneManager.LoadScene(1);
+        Time.timeScale=1;
+    }
     public void quitGame(){
         Application.Quit();
     }

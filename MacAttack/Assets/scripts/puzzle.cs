@@ -10,6 +10,10 @@ public class puzzle : MonoBehaviour
     private float startPositionY;
 
     private Vector3 resetPosition;
+    
+    public AudioClip correct;
+    public AudioClip inCorrect;
+
 
     private bool finish ;
     void Start()
@@ -44,11 +48,13 @@ public class puzzle : MonoBehaviour
         {
             transform.position = new Vector3(correctPlace.transform.position.x , correctPlace.transform.position.y , correctPlace.transform.position.z );
             finish = true;
+            AudioManager.instance.RandomizeSFX(correct);
             FindObjectOfType<puzzleStat>().addPoint();
-
         }
         else{
             transform.localPosition = new Vector3(resetPosition.x , resetPosition.y , resetPosition.z);
+            AudioManager.instance.RandomizeSFX(inCorrect);
+
         }
     }
 }

@@ -79,7 +79,7 @@ public class controller : MonoBehaviour
     }
     void jump(){
          GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x , jumpHeight );
-       // AudioManager.instance.RandomizeSFX(jump1,jump2);
+       AudioManager.instance.RandomizeSFX(jump1,jump2);
     }
 
     public void Shoot(int t){

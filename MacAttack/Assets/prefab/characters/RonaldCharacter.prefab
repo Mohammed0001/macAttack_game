@@ -203,8 +203,8 @@ MonoBehaviour:
   moveSpeed: 10
   jumpHeight: 10
   isFacingRight: 1
-  jump1: {fileID: 0}
-  jump2: {fileID: 0}
+  jump1: {fileID: 8300000, guid: 51d4855b377cf414186f3cc611e00069, type: 3}
+  jump2: {fileID: 8300000, guid: 51d4855b377cf414186f3cc611e00069, type: 3}
   Spacebar: 32
   L: 276
   R: 275
@@ -241,3 +241,4 @@ MonoBehaviour:
   isImmune: 0
   immunityDuration: 1.5
   healthBar: {fileID: 0}
+  healthAudio: {fileID: 8300000, guid: 3ac4a217bc1a0204f90f3e5efaf1bcaa, type: 3}
