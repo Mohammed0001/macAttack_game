@@ -5801,7 +5801,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213406, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_SortingOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213406, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_SortingLayerID
@@ -8813,7 +8813,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1061551919
   m_SortingLayer: 2
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 3164c7a191c9da34a8b06621c572aa14, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8853,6 +8853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueManager: {fileID: 51685483}
+  alreadyPlayed: 0
 --- !u!61 &1983637265
 BoxCollider2D:
   m_ObjectHideFlags: 0
