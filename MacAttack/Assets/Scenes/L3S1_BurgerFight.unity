@@ -8112,7 +8112,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2528047900759491584, guid: 2b48d07c0bd9b1f4a89977fe217ffa65, type: 3}
       propertyPath: VerticalSpeed
-      value: 0.01
+      value: 0.001
       objectReference: {fileID: 0}
     - target: {fileID: 2528047900759491586, guid: 2b48d07c0bd9b1f4a89977fe217ffa65, type: 3}
       propertyPath: m_RootOrder
