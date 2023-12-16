@@ -572,7 +572,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 41.821, y: -10.154}
+  m_AnchoredPosition: {x: 60.9, y: -10.154}
   m_SizeDelta: {x: 22.2031, y: 20.307}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &118716296
@@ -658,7 +658,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -27.868652, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1302,7 +1302,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -71, y: -17.4}
+  m_AnchoredPosition: {x: -71.7, y: -17.4}
   m_SizeDelta: {x: 52.92273, y: 20.3071}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &235391212
@@ -1671,7 +1671,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isFacingRight: 0
   maxSpeed: 3
-  damage: 6
+  damage: 1
 --- !u!4 &319270010 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3804224524923106254, guid: 3cf2741fcbef9c941ab07340f63e055a, type: 3}
@@ -1801,26 +1801,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cf2741fcbef9c941ab07340f63e055a, type: 3}
---- !u!1 &380207259 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 17428956414131971, guid: 47b93fedcc1dd9e489a5543c45c47b32, type: 3}
-  m_PrefabInstance: {fileID: 836759433}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &380207263
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 380207259}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9ff94cf3b8b2cd45ac8da00801cea24, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 3
-  damage: 6
 --- !u!1001 &430447751
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2786,6 +2766,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentCheckpoint: {fileID: 1628259506}
   enemy: {fileID: 0}
+  respawnAudio: {fileID: 0}
 --- !u!4 &704846332
 Transform:
   m_ObjectHideFlags: 0
@@ -4653,26 +4634,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40e91ac0dffdf3f4f9a29d040d51d810, type: 3}
---- !u!1 &1096233959 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2868357028619695681, guid: 40e91ac0dffdf3f4f9a29d040d51d810, type: 3}
-  m_PrefabInstance: {fileID: 1096233958}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1096233960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1096233959}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9ff94cf3b8b2cd45ac8da00801cea24, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 3
-  damage: 6
 --- !u!1001 &1108794315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5303,7 +5264,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 41.821, y: -10.154}
+  m_AnchoredPosition: {x: 60.9, y: -10.154}
   m_SizeDelta: {x: 22.2031, y: 20.307}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1267221166
@@ -5389,7 +5350,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -29.228027, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -6403,26 +6364,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8448dbe72b0bc224db5b160791e138e5, type: 3}
---- !u!1 &1579266769 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2868357028619695681, guid: 40e91ac0dffdf3f4f9a29d040d51d810, type: 3}
-  m_PrefabInstance: {fileID: 101100103}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1579266774
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1579266769}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9ff94cf3b8b2cd45ac8da00801cea24, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 3
-  damage: 6
 --- !u!1001 &1589848050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7836,26 +7777,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 530035047011573172, guid: 588a905431b6c8642b14b0809eb9db59, type: 3}
   m_PrefabInstance: {fileID: 523910755}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1794224695 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 17428956414131971, guid: 47b93fedcc1dd9e489a5543c45c47b32, type: 3}
-  m_PrefabInstance: {fileID: 17428956605925767}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1794224699
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1794224695}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9ff94cf3b8b2cd45ac8da00801cea24, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 3
-  damage: 6
 --- !u!4 &1794224702 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 17428956414131968, guid: 47b93fedcc1dd9e489a5543c45c47b32, type: 3}
@@ -9017,26 +8938,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!1 &2044413559 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2868357028619695681, guid: 40e91ac0dffdf3f4f9a29d040d51d810, type: 3}
-  m_PrefabInstance: {fileID: 2868357028991234102}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2044413564
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2044413559}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9ff94cf3b8b2cd45ac8da00801cea24, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 3
-  damage: 6
 --- !u!4 &2044413568 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2868357028619695692, guid: 40e91ac0dffdf3f4f9a29d040d51d810, type: 3}

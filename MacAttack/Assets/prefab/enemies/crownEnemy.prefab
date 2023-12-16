@@ -102,8 +102,8 @@ MonoBehaviour:
   isFacingRight: 0
   maxSpeed: 1
   damage: 6
-  HorizontalSpeed: 0.01
-  VerticalSpeed: 0.01
+  HorizontalSpeed: 0.001
+  VerticalSpeed: 0.001
   amplitude: 1
   moveSpeed: 0
 --- !u!50 &2528047900759491585
