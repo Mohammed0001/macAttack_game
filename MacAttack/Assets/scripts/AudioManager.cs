@@ -11,13 +11,13 @@ public class AudioManager : MonoBehaviour
     public float highPitchRange = 1.05f;
 
     void Awake(){
-        if(instance == null){
-            instance = this;
-        }
-        else if(instance != this){
-            Destroy(gameObject);
-        }
-        DontDestroyOnLoad(gameObject);
+        // if(instance == null){
+        //     instance = this;
+        // }
+        // else if(instance != this){
+        //     Destroy(gameObject);
+        // }
+        // DontDestroyOnLoad(gameObject);
     }
     public void PlaySingle(AudioClip clip){
         efxSource.clip = clip;
