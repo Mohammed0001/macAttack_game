@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/L3S1_BurgerFight.unity
     guid: 7805857a14cf0cf41bb3f26b52d3c36b
   - enabled: 1
+    path: Assets/Scenes/outroScene.unity
+    guid: cda9e3a7064284d418dfbad42ae70ccd
+  - enabled: 1
     path: Assets/Scenes/L3S2_FinalFight.unity
     guid: d3665405beb8ef648907cd684785c1a5
   m_configObjects: {}
