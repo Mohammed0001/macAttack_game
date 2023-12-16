@@ -3064,7 +3064,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213405, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: jumpHeight
-      value: 43
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213406, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_SortingOrder
@@ -3084,11 +3084,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -71.9
+      value: -51.38
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -25.8
+      value: -25.11
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3709,6 +3709,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentCheckpoint: {fileID: 908290270}
   enemy: {fileID: 0}
+  respawnAudio: {fileID: 0}
 --- !u!4 &1078018695
 Transform:
   m_ObjectHideFlags: 0
@@ -5585,7 +5586,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 843760436}
   CameraSpeed: 10
-  minX: -50
+  minX: -49
   maxX: 200
   minY: -19
   maxY: 30
