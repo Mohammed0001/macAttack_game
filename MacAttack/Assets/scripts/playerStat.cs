@@ -28,10 +28,10 @@ public class playerStat : MonoBehaviour
     public float immunityDuration = 1.5f;
 
     public Image healthBar;
-    public int coinsCollected = 0;
+    public static int coinsCollected = 0;
 
-    static public int friesBullets = 10;
-    static public int BurgerBullets = 5;
+    static public int friesBullets = 0;
+    static public int BurgerBullets = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -121,11 +121,11 @@ public class playerStat : MonoBehaviour
         BurgerBullets-=1;
     }
     public void addFries(){
-        friesBullets+=1;
+        friesBullets+=(1 * coinsCollected) ;
         Debug.Log("Fries : " + friesBullets);
     }
     public void addBurger(){
-        BurgerBullets+=1;
+        BurgerBullets+=(1 * coinsCollected);
         Debug.Log("Burgers : " + BurgerBullets);
 
     }

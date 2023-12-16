@@ -26,13 +26,12 @@ public class viewRecipeD : MonoBehaviour
             if (!alreadyPlayed)
             {
                 string[] dialogue = {
-                                    "You Have to collect some Ingredients \n n - Buns \n n - Burgers \n n - Lettece \n n - Tomatos \n n - Chease \n n - Beacons \n n - onions ",
-                                 "You Also have to collect some weapons to fight the burger army and the Burger King \n ",
-                                 "Hamburglar: Of course! You'll need bread, onion, beef, tomatoes, pickles, and lettuce. But be careful, okay?",
-                                 "Ronald McDonald: Thanks! What do I need to watch out for?",
-                                 "Hamburglar: Pay attention to only collect the right ingredience  no mistakes. And avoid boiling oil and spoiled ketchup!",
-                                 "Ronald McDonald: Got it! Thanks for the warning, friend!"
-            };
+                                 "Congratulations! Ronald You Have Reached the Map Of the Recipe.\n Take Care in your Adventure you only have: 3 lives which is the Sundae Above",
+                                 "Now, You have to follow the Instructions to get the Recipe back from the burger king.\n Don't Worry you will find Hamburglar and Grimace to help you.",
+                                 "First, You Have to collect some Ingredients: \n 8 - Buns \n 4 - Beef \n 2 - Lettece \n 6 - Tomatos \n 3 - Pickles \n 3 - onions ",
+                                 "Then, You Also have to collect some weapons to fight the burger army and the Burger King: \n n - Burgers \n n - fries ",
+                                 "Finally, You Have to fight the burger king and get the recipe from him but take care he could try to make you a part from his team."
+                };
 
                 dialogueManager.SetSentences(dialogue);
                 dialogueManager.StartCoroutine(dialogueManager.TypeDialogue());
