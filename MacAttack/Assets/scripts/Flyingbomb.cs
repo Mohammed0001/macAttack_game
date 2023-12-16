@@ -14,6 +14,9 @@ public class Flyingbomb : EnemyController
 
     private Vector3 startPosition;
 
+    public AudioClip bombAudio;
+
+
     void Start()
     {
         sr = GetComponent<SpriteRenderer>();
@@ -37,6 +40,8 @@ public class Flyingbomb : EnemyController
     {
         if (collider.CompareTag("Player"))
         {
+            AudioManager.instance.RandomizeSFX(bombAudio);
+
             FindObjectOfType<playerStat>().TakeDamage(damage);
             FlipY(); // Reverse the vertical direction when hitting the player
             sr.sprite = explodedBlock;

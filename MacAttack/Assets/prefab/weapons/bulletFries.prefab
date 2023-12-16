@@ -149,3 +149,4 @@ MonoBehaviour:
   Speed: 20
   duration: 1.5
   bulletTime: 0
+  bulletAudio: {fileID: 8300000, guid: 9699a02179270ca4faf04138f5178bd2, type: 3}

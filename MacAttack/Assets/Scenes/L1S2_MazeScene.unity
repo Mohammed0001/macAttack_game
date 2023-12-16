@@ -248,6 +248,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsWinBun: 1
+--- !u!1001 &147963276
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6657786281508405389, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_Name
+      value: AudioManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 61.704033
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 29.418518
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.1875005
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6657786281508405427, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 13b4d31e5eb0d9546b71c4f340008b2a, type: 3}
 --- !u!1 &228664202
 GameObject:
   m_ObjectHideFlags: 0
@@ -1045,6 +1102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerUI: {fileID: 1907493651}
+  victoryAudio: {fileID: 8300000, guid: 3ece78be2eb1ec04a8a732f24acfbebb, type: 3}
   victoryScreen: {fileID: 1496633033}
   gameOverScreen: {fileID: 901864819}
 --- !u!4 &1063936932

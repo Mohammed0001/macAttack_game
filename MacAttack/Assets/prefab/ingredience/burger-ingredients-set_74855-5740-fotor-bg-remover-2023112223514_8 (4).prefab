@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8465554128392730484}
   - component: {fileID: 8465554128392730485}
-  - component: {fileID: 8465554128392730487}
   - component: {fileID: 8465554128392730486}
+  - component: {fileID: 7402253693942802190}
   m_Layer: 0
   m_Name: burger-ingredients-set_74855-5740-fotor-bg-remover-2023112223514_8 (4)
   m_TagString: Untagged
@@ -86,19 +86,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8465554128392730487
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8465554128392730490}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 626e703dcd008644c91fef2b3d326963, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  coinValue: 2
 --- !u!61 &8465554128392730486
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -125,3 +112,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.6, y: 0.36}
   m_EdgeRadius: 0
+--- !u!114 &7402253693942802190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8465554128392730490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8466109356d390e458f1338e74b3f328, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wrongCollectAudio: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}

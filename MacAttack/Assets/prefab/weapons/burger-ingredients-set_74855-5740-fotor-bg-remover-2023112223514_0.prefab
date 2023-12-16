@@ -124,3 +124,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68c44a1170f1d564796afbf3132f0c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  burgerCollect: {fileID: 8300000, guid: 5b45116a5b27d844aabad8939d224f9f, type: 3}

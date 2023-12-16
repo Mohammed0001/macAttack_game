@@ -125,3 +125,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   negativeValue: 2
+  incorrectWeapon: {fileID: 8300000, guid: 8326b40de2a98dc409da9bdb55f30e86, type: 3}

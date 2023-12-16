@@ -8,9 +8,12 @@ public class puzzleStat : MonoBehaviour
     private int points = 0;
     public TextMeshProUGUI timerUI;
     public TextMeshProUGUI puzzleUI;
-    private float timer = 60f;
+    private float timer = 90f;
     public GameObject victoryScreen;
     public GameObject gameOverScreen;
+    
+    public AudioClip victory;
+
     // Update is called once per frame
     void Update()
     {
@@ -24,7 +27,8 @@ public class puzzleStat : MonoBehaviour
             timerUI.text = "" + (Mathf.Round(timer)/100);
         }
         if(timer <= 0){
-            gameOverScreen.SetActive(true);
+            gameOverScreen.SetActive(true);         
+            AudioManager.instance.RandomizeSFX(victory);
             Time.timeScale=0;
         }
     }

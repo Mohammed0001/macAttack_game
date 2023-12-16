@@ -7,8 +7,11 @@ public class BulletController : MonoBehaviour
     public float Speed;
     public float duration = 1.5f;
     public float bulletTime = 0;
+    public AudioClip bulletAudio;
+
     void Start()
     {
+        AudioManager.instance.RandomizeSFX(bulletAudio);
         controller player;
         player = FindObjectOfType<controller>();
         if (player.transform.localScale.x<0)
