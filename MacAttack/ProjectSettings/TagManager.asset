@@ -8,6 +8,8 @@ TagManager:
   - Wall
   - Celling
   - ground
+  - Ketchup
+  - Bullet
   layers:
   - Default
   - TransparentFX
