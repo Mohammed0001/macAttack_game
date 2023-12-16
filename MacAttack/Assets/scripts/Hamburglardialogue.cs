@@ -13,17 +13,6 @@ public class Hamburglardialogue : MonoBehaviour
     private object other;
     public bool alreadyPlayed = false;
 
-    //Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    //Update is called once per frame
-    void Update()
-    {
-
-    }
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
@@ -42,6 +31,7 @@ public class Hamburglardialogue : MonoBehaviour
                 dialogueManager.SetSentences(dialogue);
                 dialogueManager.StartCoroutine(dialogueManager.TypeDialogue());
                 alreadyPlayed = true;
+
             }
 
         }

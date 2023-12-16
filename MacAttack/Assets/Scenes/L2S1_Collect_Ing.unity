@@ -3045,7 +3045,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -72.4
+      value: -71
       objectReference: {fileID: 0}
     - target: {fileID: 1237919334661213407, guid: 1b32406dafc96fe458737eed266ad677, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3739,6 +3739,11 @@ RectTransform:
 --- !u!1 &1086972527 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 530035047011573172, guid: 588a905431b6c8642b14b0809eb9db59, type: 3}
+  m_PrefabInstance: {fileID: 1086972525}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1086972528 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 530035047213695950, guid: 588a905431b6c8642b14b0809eb9db59, type: 3}
   m_PrefabInstance: {fileID: 1086972525}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1089429177
@@ -5892,6 +5897,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2025380037}
   - component: {fileID: 2025380036}
+  - component: {fileID: 2025380039}
+  - component: {fileID: 2025380038}
   m_Layer: 0
   m_Name: brandchmc-removebg-preview
   m_TagString: Untagged
@@ -5966,6 +5973,45 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &2025380038
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025380035}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5, y: 5}
+    newSize: {x: 5, y: 5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 5, y: 5}
+  m_EdgeRadius: 0
+--- !u!114 &2025380039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025380035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 020d9f9dad48cd747b2565196a28b11b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  victoryScreen: {fileID: 1086972528}
 --- !u!1 &2033518211
 GameObject:
   m_ObjectHideFlags: 0

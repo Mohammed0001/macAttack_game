@@ -33,9 +33,11 @@ public class gameSettings : MonoBehaviour
     }
     public void nextLevel(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        Time.timeScale=1;
     }
     public void startGame(){
         SceneManager.LoadScene(1);
+        Time.timeScale=1;
     }
     public void reStartGame(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);

@@ -121,11 +121,15 @@ public class playerStat : MonoBehaviour
         BurgerBullets-=1;
     }
     public void addFries(){
-        friesBullets+=(1 * coinsCollected) ;
+        if(friesBullets < 100){
+            friesBullets+=(1 * coinsCollected / 6) ;
+        }
         Debug.Log("Fries : " + friesBullets);
     }
     public void addBurger(){
-        BurgerBullets+=(1 * coinsCollected);
+        if(BurgerBullets < 100){
+            BurgerBullets+=(1 * coinsCollected / 6);
+        }
         Debug.Log("Burgers : " + BurgerBullets);
 
     }
