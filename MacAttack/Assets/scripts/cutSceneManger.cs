@@ -15,7 +15,7 @@ public class cutSceneManger : MonoBehaviour
 
     IEnumerator wait(){
         yield return new WaitForSeconds(waitTime);
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
 
 }
