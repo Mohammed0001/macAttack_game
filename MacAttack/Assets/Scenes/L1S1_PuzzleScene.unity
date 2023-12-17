@@ -2376,7 +2376,7 @@ MonoBehaviour:
   puzzleUI: {fileID: 876024112}
   victoryScreen: {fileID: 1913150883}
   gameOverScreen: {fileID: 128865332}
-  victory: {fileID: 8300000, guid: 3ece78be2eb1ec04a8a732f24acfbebb, type: 3}
+  victory: {fileID: 8300000, guid: be90cc76aa19cad47b34dd1e74ac55bd, type: 3}
 --- !u!4 &1397512808
 Transform:
   m_ObjectHideFlags: 0
