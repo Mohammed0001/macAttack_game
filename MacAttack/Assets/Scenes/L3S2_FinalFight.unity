@@ -14383,7 +14383,7 @@ MonoBehaviour:
   victoryScreen: {fileID: 1504225975}
   victoryAudio: {fileID: 8300000, guid: 20e0ad4c21b736648a7df57b5a543aff, type: 3}
   bulletAudio: {fileID: 8300000, guid: 88c61cd185dbb1d478d643e73b997c16, type: 3}
-  health: 10
+  health: 20
 --- !u!1 &2096378287
 GameObject:
   m_ObjectHideFlags: 0
