@@ -46,7 +46,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -174,8 +174,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2d5b771f29a2984586a7131c4e57c5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  efxSource: {fileID: 6657786281212333133}
-  musicSource: {fileID: 6657786282422679760}
+  efxSource: {fileID: 6657786282422679760}
+  musicSource: {fileID: 6657786281212333133}
   lowPitchRange: 0.95
   highPitchRange: 1.05
 --- !u!1 &6657786282422679763
@@ -220,8 +220,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: bb78fdcefd8b5844583b13e6aff87217, type: 3}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0

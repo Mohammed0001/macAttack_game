@@ -12,7 +12,7 @@ public class puzzleStat : MonoBehaviour
     public GameObject victoryScreen;
     public GameObject gameOverScreen;
     
-    public AudioClip victory;
+    public AudioClip victoryAudio;
 
     // Update is called once per frame
     void Update()
@@ -27,8 +27,8 @@ public class puzzleStat : MonoBehaviour
             timerUI.text = "" + (Mathf.Round(timer)/100);
         }
         if(timer <= 0){
+            AudioManager.instance.RandomizeSFX(victoryAudio);
             gameOverScreen.SetActive(true);         
-            AudioManager.instance.RandomizeSFX(victory);
             Time.timeScale=0;
         }
     }

@@ -10,12 +10,12 @@ public class VictoryBurgerFight : MonoBehaviour
 	void OnTriggerEnter2D(Collider2D other){
    		if(other.tag == "Player")
   		{
-        AudioManager.instance.RandomizeSFX(victoryAudio);
-			Invoke("ViewVictory" ,3 );
-    			FindObjectOfType<controller>().playVictory();
-    		}
+    		FindObjectOfType<controller>().playVictory();
+			Invoke("ViewVictory" ,1);
+    	}
 	}
 	void ViewVictory(){
+        AudioManager.instance.RandomizeSFX(victoryAudio);
 		victoryScreen.SetActive(true);
    		
 	}
